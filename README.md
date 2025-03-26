@@ -2,9 +2,11 @@
 
 I am Shanmugapriya. With a strong foundation in Business Analytics, backed by an MSc in Business Analytics from the UK. I specialize in data management, predictive modelling, data visualization and machine learning. With proficiency in Python, SQL, Tableau, Power BI and Excel, I transform raw data into meaningful insights that drive decision-making.
 
-In this portfolio, you will find projects demonstrating my expertise in data preprocessing, statistical modelling and visualization techniques. Some key highlights include my Sports Center Attendance Prediction project, where I applied machine learning techniques to identify key factors influencing user attendance and my Marketing Analytics project, which provided actionable insights for Hepatitis Diagnosis.
+This portfolio showcases my experience in handling large datasets, developing impactful dashboards, and applying statistical models to address real-world challenges. Key projects include my Attendance Prediction analysis, where I applied machine learning to forecast attendance trends, and my Hepatitis Diagnosis project, which identified critical factors influencing diagnosis outcomes. I've also designed a Patient Insights Dashboard to support data-driven healthcare decisions and conducted a Stroke Analysis to explore contributing factors to stroke cases. My Excel Insights project highlights my ability to analyze data with advanced Excel techniques, while the Winter Rock Sale Operations project focuses on optimizing sales performance.
 
 I am highly analytical and passionate about solving real-world business challenges through data-driven strategies. I enjoy working in collaborative environments, where I can leverage my skills to optimize processes and enhance decision-making.
+
+Feel free to explore my projects — I'm always open to feedback, collaboration or a good data conversation!
 
 #  Skills
 
