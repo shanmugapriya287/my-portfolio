@@ -55,7 +55,7 @@ Optimized sensitivity and specificity for improved classification and decision-m
 
 [Winter Rock Operations](https://github.com/shanmugapriya287/Winter-Rock-Sale-/tree/main)
 
-## Tableau Visualizations
+# Tableau Visualizations
 
 Explore my Tableau projects here: https://public.tableau.com/app/profile/shanmugapriya.jayagobi2162/vizzes
 
