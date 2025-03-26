@@ -4,22 +4,25 @@ This project analyzes Winter Rock's sales trends, forecasting, distribution opti
 
 📊 Key Topics Covered
 
-Sales Trends Analysis:
+1. Sales Trends Analysis:
 
-Investigated time-series data to identify seasonal patterns.
-Used 12-month centered moving average (CMA-12) for trend smoothing.
-Sales Forecasting:
+- Investigated time-series data to identify seasonal patterns.
+- Used 12-month centered moving average (CMA-12) for trend smoothing.
 
-Applied Single Exponential Smoothing (SES) for sales prediction.
-Evaluated error metrics: Mean Absolute Error (MAE), Mean Squared Error (MSE), and Root Mean Squared Error (RMSE).
-Distribution Plan Optimization:
+2. Sales Forecasting:
 
-Used Linear Programming (LP) to minimize distribution costs.
-Optimized shipments from Manchester & London distribution centers.
-New Product Demand Planning:
+- Applied Single Exponential Smoothing (SES) for sales prediction.
+- Evaluated error metrics: Mean Absolute Error (MAE), Mean Squared Error (MSE), and Root Mean Squared Error (RMSE).
 
-Developed a Decision Tree Model to compare supplier options.
-Conducted Monte Carlo Simulation to assess profitability.
+3. Distribution Plan Optimization:
+
+- Used Linear Programming (LP) to minimize distribution costs.
+- Optimized shipments from Manchester & London distribution centers.
+
+4. New Product Demand Planning:
+
+- Developed a Decision Tree Model to compare supplier options.
+0- Conducted Monte Carlo Simulation to assess profitability.
 
 📈 Key Findings & Recommendations
 
