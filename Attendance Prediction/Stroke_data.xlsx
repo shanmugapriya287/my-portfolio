@@ -1,0 +1,501 @@
+Patient ID,Patient Name,Age,Gender,Hypertension,Heart Disease,Marital Status,Work Type,Residence Type,Average Glucose Level,Body Mass Index (BMI),Smoking Status,Alcohol Intake,Physical Activity,Stroke History,Family History of Stroke,Dietary Habits,Stress Levels,Blood Pressure Levels,Cholesterol Levels,Symptoms,Diagnosis
+18153,Mamooty Khurana,56,Male,0,1,Married,Self-employed,Rural,130.91,22.37,Non-smoker,Social Drinker,Moderate,0,Yes,Vegan,3.48,140/108,"HDL: 68, LDL: 133","Difficulty Speaking, Headache",Stroke
+62749,Kaira Subramaniam,80,Male,0,0,Single,Self-employed,Urban,183.73,32.57,Non-smoker,Never,Low,0,No,Paleo,1.73,146/91,"HDL: 63, LDL: 70","Loss of Balance, Headache, Dizziness, Confusion",Stroke
+32145,Dhanush Balan,26,Male,1,1,Married,Never Worked,Rural,189,20.32,Formerly Smoked,Rarely,High,0,Yes,Paleo,7.31,154/97,"HDL: 59, LDL: 95","Seizures, Dizziness",Stroke
+6154,Ivana Baral,73,Male,0,0,Married,Never Worked,Urban,185.29,27.5,Non-smoker,Frequent Drinker,Moderate,0,No,Paleo,5.35,174/81,"HDL: 70, LDL: 137","Seizures, Blurred Vision, Severe Fatigue, Headache, Confusion",No Stroke
+48973,Darshit Jayaraman,51,Male,1,1,Divorced,Self-employed,Urban,177.34,29.06,Currently Smokes,Rarely,Low,0,Yes,Pescatarian,6.84,121/95,"HDL: 65, LDL: 68",Difficulty Speaking,Stroke
+29307,Advika Kota,62,Female,0,0,Single,Private,Urban,91.6,37.47,Currently Smokes,Social Drinker,High,0,No,Gluten-Free,4.85,132/64,"HDL: 80, LDL: 69",Severe Fatigue,Stroke
+25525,Elakshi Karan,40,Female,1,0,Married,Private,Urban,77.83,28.2,Currently Smokes,Never,Low,1,No,Vegetarian,6.38,178/105,"HDL: 31, LDL: 134",,No Stroke
+4809,Shalv Dugar,61,Female,0,1,Divorced,Government Job,Rural,194.73,26.44,Formerly Smoked,Rarely,Moderate,1,No,Vegan,5.85,179/72,"HDL: 66, LDL: 134",Loss of Balance,Stroke
+7372,Raghav Handa,72,Female,1,1,Married,Self-employed,Rural,72.99,30.1,Formerly Smoked,Rarely,High,1,No,Vegetarian,0.73,141/106,"HDL: 71, LDL: 140","Loss of Balance, Dizziness, Difficulty Speaking",Stroke
+37504,Krish Kulkarni,82,Male,0,0,Divorced,Self-employed,Urban,111.23,28.83,Currently Smokes,Rarely,High,1,Yes,Non-Vegetarian,8.39,119/88,"HDL: 32, LDL: 88",,No Stroke
+15298,Neelofar Devan,41,Male,0,1,Divorced,Government Job,Urban,94.9,36.74,Formerly Smoked,Frequent Drinker,Low,1,Yes,Pescatarian,1.56,91/80,"HDL: 32, LDL: 114","Difficulty Speaking, Numbness, Weakness, Severe Fatigue",No Stroke
+36017,Anaya Koshy,72,Female,0,0,Divorced,Private,Urban,155.32,30.87,Currently Smokes,Frequent Drinker,Moderate,0,Yes,Paleo,8.71,127/110,"HDL: 55, LDL: 96","Loss of Balance, Blurred Vision",Stroke
+66924,Ahana  Lalla,30,Female,0,1,Divorced,Government Job,Urban,163.15,19.36,Formerly Smoked,Frequent Drinker,Moderate,0,Yes,Non-Vegetarian,9.19,114/67,"HDL: 80, LDL: 83","Loss of Balance, Numbness",Stroke
+46821,Zaina Chaudhary,80,Female,0,0,Single,Private,Urban,136.06,25.19,Formerly Smoked,Never,High,1,No,Gluten-Free,4.14,97/81,"HDL: 40, LDL: 141",Loss of Balance,No Stroke
+54426,Tara Swaminathan,42,Male,0,1,Married,Self-employed,Rural,181.02,19.35,Formerly Smoked,Frequent Drinker,Low,1,No,Paleo,2.58,170/102,"HDL: 70, LDL: 70","Dizziness, Blurred Vision, Weakness, Headache, Confusion",Stroke
+86093,Azad Krishnan,86,Male,0,1,Married,Government Job,Rural,130.71,31.83,Non-smoker,Social Drinker,High,0,No,Non-Vegetarian,3.77,151/97,"HDL: 52, LDL: 128","Confusion, Difficulty Speaking, Confusion",Stroke
+9062,Mehul Ranganathan,31,Female,1,1,Single,Private,Rural,64.91,16.9,Formerly Smoked,Frequent Drinker,High,0,No,Vegetarian,3.26,175/84,"HDL: 30, LDL: 154","Numbness, Numbness, Blurred Vision, Severe Fatigue",No Stroke
+29940,Nishith Bhattacharyya,63,Female,1,1,Divorced,Self-employed,Rural,88.43,32.45,Currently Smokes,Rarely,High,1,No,Non-Vegetarian,8.29,103/86,"HDL: 56, LDL: 82","Weakness, Weakness, Blurred Vision, Dizziness",No Stroke
+53292,Vritika Lala,40,Female,0,1,Single,Government Job,Urban,199.01,31.22,Non-smoker,Rarely,Moderate,1,Yes,Vegan,0.82,120/60,"HDL: 58, LDL: 92","Confusion, Seizures",Stroke
+23954,Taran Khatri,25,Male,0,0,Married,Private,Urban,71.38,39,Non-smoker,Rarely,Moderate,0,Yes,Gluten-Free,0.46,170/64,"HDL: 72, LDL: 174",Seizures,Stroke
+73140,Nitara Kapadia,40,Female,1,1,Divorced,Government Job,Rural,171.67,18.12,Formerly Smoked,Social Drinker,Low,1,No,Vegetarian,9.7,98/106,"HDL: 41, LDL: 114","Severe Fatigue, Difficulty Speaking, Seizures, Blurred Vision",No Stroke
+62785,Manjari Dhaliwal,33,Female,0,0,Divorced,Government Job,Urban,72.85,37.58,Formerly Smoked,Never,Low,0,No,Non-Vegetarian,5.65,119/105,"HDL: 68, LDL: 75","Weakness, Seizures, Numbness, Blurred Vision",No Stroke
+44810,Saira Loyal,64,Female,1,1,Divorced,Never Worked,Rural,72.66,24.82,Currently Smokes,Frequent Drinker,Moderate,1,No,Non-Vegetarian,2.27,134/70,"HDL: 42, LDL: 162","Loss of Balance, Seizures, Confusion, Weakness",Stroke
+35165,Emir Rajan,69,Male,0,1,Married,Private,Rural,149.46,27.2,Non-smoker,Frequent Drinker,Low,0,Yes,Vegan,8.4,163/94,"HDL: 50, LDL: 69","Numbness, Seizures, Weakness, Headache",No Stroke
+79771,Nayantara Issac,80,Female,0,1,Divorced,Never Worked,Urban,154.25,15.42,Non-smoker,Never,High,0,Yes,Vegan,9.56,178/74,"HDL: 54, LDL: 115",Dizziness,No Stroke
+36975,Jhanvi Brar,24,Female,0,0,Married,Self-employed,Urban,79.89,17.58,Currently Smokes,Social Drinker,High,1,No,Vegetarian,6.48,151/65,"HDL: 73, LDL: 111","Numbness, Loss of Balance, Numbness, Blurred Vision",Stroke
+81347,Gokul Bhakta,47,Female,0,1,Divorced,Government Job,Rural,83.76,20.14,Non-smoker,Never,Low,1,No,Gluten-Free,9.15,102/85,"HDL: 30, LDL: 137","Numbness, Weakness",No Stroke
+6743,Yasmin Vala,83,Male,0,1,Divorced,Never Worked,Urban,180.31,22.12,Non-smoker,Rarely,High,1,No,Vegan,7.21,151/64,"HDL: 69, LDL: 109","Severe Fatigue, Weakness, Difficulty Speaking, Difficulty Speaking",Stroke
+30237,Aayush Choudhury,68,Female,0,0,Single,Private,Rural,108.49,21.33,Non-smoker,Frequent Drinker,Moderate,0,Yes,Non-Vegetarian,5.35,119/110,"HDL: 67, LDL: 185","Weakness, Dizziness, Headache, Severe Fatigue, Headache",Stroke
+28610,Miraya Kaur,63,Male,0,1,Married,Never Worked,Urban,107.84,23.42,Formerly Smoked,Never,Low,1,No,Paleo,4.69,123/63,"HDL: 67, LDL: 102",,Stroke
+39392,Aayush Bora,72,Female,0,0,Single,Never Worked,Rural,161.83,33.97,Formerly Smoked,Frequent Drinker,High,1,No,Non-Vegetarian,9.26,109/104,"HDL: 53, LDL: 93","Loss of Balance, Confusion, Blurred Vision, Loss of Balance",No Stroke
+8202,Nitya Garg,57,Male,0,1,Married,Government Job,Rural,76.3,29.44,Non-smoker,Rarely,Moderate,0,Yes,Vegan,2.85,101/69,"HDL: 33, LDL: 143","Confusion, Severe Fatigue, Loss of Balance, Loss of Balance, Confusion",Stroke
+28323,Zain Kari,71,Male,0,1,Divorced,Self-employed,Urban,162.15,39.43,Currently Smokes,Frequent Drinker,Moderate,0,No,Pescatarian,9.8,108/80,"HDL: 46, LDL: 60",,No Stroke
+59056,Abram Samra,69,Female,0,1,Single,Never Worked,Rural,75.92,18.32,Currently Smokes,Rarely,High,1,Yes,Vegetarian,6.81,161/65,"HDL: 40, LDL: 112",Loss of Balance,No Stroke
+73489,Lavanya Karpe,62,Female,0,1,Divorced,Private,Rural,175,29.35,Currently Smokes,Social Drinker,High,0,No,Non-Vegetarian,6.74,146/103,"HDL: 46, LDL: 94","Seizures, Seizures",Stroke
+5940,Arnav Bansal,58,Female,0,0,Married,Never Worked,Urban,123.2,25.35,Non-smoker,Rarely,Moderate,1,No,Keto,9.38,90/109,"HDL: 33, LDL: 174","Blurred Vision, Difficulty Speaking",No Stroke
+96568,Ahana  Shenoy,80,Female,0,1,Married,Government Job,Urban,166.91,31.68,Non-smoker,Social Drinker,High,0,No,Vegetarian,8,137/109,"HDL: 68, LDL: 101","Dizziness, Headache",Stroke
+94512,Anvi Salvi,23,Female,0,0,Single,Government Job,Rural,164.72,31.56,Formerly Smoked,Social Drinker,Low,1,Yes,Gluten-Free,7.86,148/74,"HDL: 30, LDL: 62","Blurred Vision, Seizures, Weakness",Stroke
+87493,Neelofar Khalsa,62,Male,0,0,Divorced,Private,Rural,138.48,30.7,Currently Smokes,Never,Low,0,No,Paleo,7.99,152/94,"HDL: 70, LDL: 95","Headache, Weakness, Confusion, Weakness",Stroke
+67784,Amira Lad,42,Female,0,0,Married,Self-employed,Rural,165.66,25.81,Formerly Smoked,Never,Moderate,1,No,Vegetarian,5.31,167/78,"HDL: 41, LDL: 100","Seizures, Seizures, Difficulty Speaking, Headache, Weakness",No Stroke
+66513,Indrans Bhatnagar,48,Female,0,0,Single,Private,Rural,72.49,26.07,Currently Smokes,Never,High,1,Yes,Vegetarian,3.57,98/79,"HDL: 50, LDL: 158","Seizures, Loss of Balance, Severe Fatigue, Seizures, Loss of Balance",Stroke
+86395,Mehul Mani,43,Female,0,1,Single,Never Worked,Urban,132.41,20.19,Formerly Smoked,Never,Moderate,0,No,Vegan,3.58,154/73,"HDL: 55, LDL: 82","Headache, Numbness, Blurred Vision, Difficulty Speaking",No Stroke
+10990,Aaryahi Arya,85,Male,0,0,Divorced,Self-employed,Urban,143.37,27.91,Currently Smokes,Rarely,High,1,No,Vegetarian,6.11,180/78,"HDL: 80, LDL: 98","Severe Fatigue, Confusion, Weakness, Confusion, Weakness",No Stroke
+54061,Kartik Chauhan,25,Male,0,0,Single,Self-employed,Rural,196.98,33.8,Formerly Smoked,Never,High,1,No,Vegan,4.39,121/85,"HDL: 56, LDL: 83",,No Stroke
+52662,Kaira Wagle,21,Male,0,0,Married,Private,Urban,64.83,38.74,Formerly Smoked,Never,Moderate,1,Yes,Pescatarian,5.07,144/69,"HDL: 70, LDL: 154","Confusion, Confusion, Dizziness, Difficulty Speaking",No Stroke
+3291,Yashvi Viswanathan,37,Female,0,1,Married,Self-employed,Rural,199.82,24.2,Non-smoker,Rarely,Low,1,Yes,Keto,7.63,132/70,"HDL: 73, LDL: 189",,No Stroke
+20836,Tiya Iyer,55,Male,0,0,Married,Self-employed,Rural,86.78,28.96,Non-smoker,Frequent Drinker,Moderate,1,Yes,Paleo,1.72,139/75,"HDL: 74, LDL: 147","Difficulty Speaking, Severe Fatigue, Severe Fatigue",Stroke
+85375,Ivan Kata,74,Female,0,1,Single,Self-employed,Urban,117.03,19.48,Currently Smokes,Never,High,0,No,Gluten-Free,9.39,113/79,"HDL: 31, LDL: 130","Severe Fatigue, Headache, Headache, Numbness",No Stroke
+37582,Sana Gaba,54,Male,0,0,Married,Self-employed,Rural,103.52,18.35,Non-smoker,Social Drinker,Moderate,1,No,Gluten-Free,2.75,165/91,"HDL: 78, LDL: 78",,No Stroke
+96520,Emir Randhawa,59,Female,1,1,Divorced,Government Job,Rural,90.44,17.33,Non-smoker,Frequent Drinker,High,1,No,Vegan,6.87,120/76,"HDL: 67, LDL: 172","Loss of Balance, Blurred Vision, Seizures",Stroke
+82852,Kabir Jha,24,Female,0,1,Single,Private,Urban,111.03,23.81,Currently Smokes,Rarely,Low,1,No,Non-Vegetarian,2.59,176/64,"HDL: 69, LDL: 181",Weakness,No Stroke
+37056,Samaira Kaur,55,Female,0,1,Married,Self-employed,Urban,133.89,30.81,Formerly Smoked,Rarely,Low,1,Yes,Gluten-Free,6.08,166/77,"HDL: 68, LDL: 123","Difficulty Speaking, Severe Fatigue",Stroke
+97919,Rhea Majumdar,52,Male,0,1,Single,Private,Rural,162.14,21.36,Non-smoker,Frequent Drinker,Low,0,Yes,Non-Vegetarian,8.85,128/67,"HDL: 52, LDL: 83",Headache,No Stroke
+659,Zain Sawhney,87,Male,0,0,Single,Private,Urban,177.96,28.5,Currently Smokes,Frequent Drinker,Low,1,No,Vegetarian,4.66,116/94,"HDL: 42, LDL: 64","Weakness, Confusion, Headache, Blurred Vision",No Stroke
+80197,Mohanlal Barman,61,Female,0,0,Divorced,Self-employed,Urban,64.32,24.61,Non-smoker,Frequent Drinker,Low,0,No,Pescatarian,5.15,122/83,"HDL: 78, LDL: 170","Headache, Confusion, Weakness",Stroke
+23357,Romil Dave,39,Male,0,1,Divorced,Government Job,Urban,115.44,25.45,Currently Smokes,Social Drinker,Moderate,0,Yes,Pescatarian,3.31,108/84,"HDL: 57, LDL: 137","Dizziness, Confusion, Difficulty Speaking, Difficulty Speaking",No Stroke
+80147,Ishaan Suresh,79,Male,0,0,Divorced,Government Job,Rural,159.95,33.19,Non-smoker,Frequent Drinker,Moderate,0,Yes,Vegetarian,8.72,121/67,"HDL: 47, LDL: 82","Weakness, Difficulty Speaking",No Stroke
+95544,Kabir Ramachandran,62,Female,0,1,Single,Self-employed,Urban,80.93,30.19,Currently Smokes,Frequent Drinker,Moderate,0,No,Vegetarian,8.7,90/72,"HDL: 62, LDL: 162",,Stroke
+1067,Aniruddh Sahota,41,Male,0,1,Married,Never Worked,Rural,141.67,37.81,Non-smoker,Social Drinker,High,0,No,Non-Vegetarian,5.58,96/75,"HDL: 63, LDL: 152","Seizures, Dizziness, Difficulty Speaking, Loss of Balance, Numbness",Stroke
+87467,Oorja Bhardwaj,77,Male,0,1,Divorced,Government Job,Urban,167.01,25.42,Non-smoker,Rarely,Moderate,1,Yes,Gluten-Free,3.3,126/101,"HDL: 67, LDL: 139","Dizziness, Loss of Balance",Stroke
+14020,Dhanuk Rana,69,Male,0,1,Married,Never Worked,Rural,186.1,38.52,Non-smoker,Frequent Drinker,Low,0,Yes,Paleo,1.79,100/79,"HDL: 74, LDL: 103","Severe Fatigue, Dizziness, Weakness",No Stroke
+26552,Zain Sura,22,Female,0,1,Divorced,Private,Rural,164.16,34.12,Currently Smokes,Social Drinker,Moderate,0,Yes,Vegan,7.68,90/91,"HDL: 34, LDL: 106","Confusion, Dizziness, Severe Fatigue, Dizziness, Weakness",No Stroke
+20310,Dharmajan Saini,65,Male,0,0,Divorced,Never Worked,Urban,66.57,38.97,Formerly Smoked,Frequent Drinker,Moderate,1,Yes,Vegan,1.87,114/106,"HDL: 31, LDL: 159","Dizziness, Severe Fatigue, Seizures, Seizures, Weakness",Stroke
+3147,Aniruddh Ramanathan,41,Female,1,0,Married,Government Job,Rural,161.2,29.75,Currently Smokes,Never,Moderate,1,Yes,Gluten-Free,8.38,130/102,"HDL: 45, LDL: 119",,No Stroke
+12695,Dhanush Banik,40,Male,1,1,Divorced,Self-employed,Urban,194.8,35.04,Non-smoker,Rarely,High,0,Yes,Vegan,6.65,111/99,"HDL: 77, LDL: 65",,No Stroke
+29660,Dhanuk Thakur,29,Female,0,1,Married,Government Job,Rural,131.27,31.92,Formerly Smoked,Rarely,Low,0,Yes,Keto,1,113/110,"HDL: 79, LDL: 69","Headache, Seizures, Dizziness, Weakness, Headache",No Stroke
+3945,Indrans Varma,71,Female,0,0,Divorced,Never Worked,Rural,129.33,24.93,Non-smoker,Rarely,High,1,No,Vegetarian,8.17,96/64,"HDL: 73, LDL: 185","Severe Fatigue, Weakness, Confusion",Stroke
+92476,Kiara Bhatia,51,Female,0,1,Divorced,Private,Urban,86.76,16.89,Formerly Smoked,Frequent Drinker,Moderate,0,Yes,Gluten-Free,2.25,117/110,"HDL: 54, LDL: 173","Severe Fatigue, Difficulty Speaking",Stroke
+71448,Sumer Date,86,Male,0,0,Divorced,Private,Urban,97.04,34.64,Formerly Smoked,Social Drinker,Moderate,0,No,Vegan,0.44,92/71,"HDL: 56, LDL: 65",,Stroke
+90406,Divyansh Lata,79,Male,0,0,Married,Self-employed,Urban,105.6,32.49,Non-smoker,Frequent Drinker,Moderate,0,No,Vegan,6.67,149/75,"HDL: 40, LDL: 88","Blurred Vision, Difficulty Speaking, Confusion",No Stroke
+11704,Tushar Baral,53,Male,1,0,Married,Private,Urban,94.37,34.93,Non-smoker,Rarely,Moderate,1,Yes,Keto,8.8,176/70,"HDL: 53, LDL: 173","Difficulty Speaking, Confusion",No Stroke
+9503,Oorja Agate,77,Female,0,1,Married,Never Worked,Rural,93.45,22.32,Non-smoker,Frequent Drinker,High,1,No,Non-Vegetarian,9.84,178/104,"HDL: 38, LDL: 189","Severe Fatigue, Blurred Vision, Loss of Balance, Confusion",Stroke
+60549,Amani Gole,69,Male,0,0,Married,Private,Rural,87.58,27.17,Non-smoker,Social Drinker,High,0,Yes,Paleo,6.58,165/72,"HDL: 32, LDL: 88","Headache, Confusion, Blurred Vision",Stroke
+4469,Vihaan Verma,33,Male,0,1,Single,Self-employed,Urban,166,23.88,Non-smoker,Never,High,1,Yes,Pescatarian,5.55,151/96,"HDL: 80, LDL: 93",Dizziness,No Stroke
+85913,Hridaan Kade,48,Female,0,0,Divorced,Private,Urban,115.02,25,Formerly Smoked,Rarely,Moderate,0,No,Vegan,2.83,140/74,"HDL: 56, LDL: 68","Headache, Dizziness, Severe Fatigue, Loss of Balance",No Stroke
+79450,Tara Bala,50,Female,0,0,Married,Private,Rural,131.81,36.12,Non-smoker,Never,High,1,No,Paleo,2.89,142/108,"HDL: 52, LDL: 93","Headache, Dizziness",Stroke
+6878,Biju Loke,74,Female,0,0,Single,Private,Urban,87.41,38.94,Non-smoker,Rarely,High,1,No,Vegetarian,8.55,109/63,"HDL: 80, LDL: 82",Numbness,No Stroke
+58855,Shayak Ahuja,25,Male,1,1,Divorced,Never Worked,Rural,61.6,22.75,Non-smoker,Social Drinker,High,0,No,Vegan,3.63,100/101,"HDL: 30, LDL: 65",Seizures,No Stroke
+19088,Renee Wable,71,Male,1,0,Single,Government Job,Rural,144.48,34.04,Formerly Smoked,Frequent Drinker,Low,1,Yes,Vegetarian,6.18,145/110,"HDL: 69, LDL: 73","Severe Fatigue, Blurred Vision, Numbness",No Stroke
+61560,Bhavin Rau,65,Male,1,1,Single,Never Worked,Rural,163.68,34.6,Currently Smokes,Never,Low,0,No,Non-Vegetarian,3.22,102/67,"HDL: 54, LDL: 190",,Stroke
+53823,Diya Wagle,87,Female,0,0,Divorced,Private,Urban,185.47,19.98,Currently Smokes,Never,Moderate,0,Yes,Pescatarian,5.11,180/70,"HDL: 71, LDL: 190","Severe Fatigue, Seizures, Weakness, Severe Fatigue",No Stroke
+87150,Aniruddh Balasubramanian,75,Male,1,1,Single,Self-employed,Urban,61.78,31.66,Formerly Smoked,Never,Low,1,No,Pescatarian,2.79,134/94,"HDL: 48, LDL: 137","Difficulty Speaking, Weakness, Numbness",Stroke
+56410,Madhav Halder,31,Female,1,0,Single,Never Worked,Urban,158.38,20.74,Currently Smokes,Social Drinker,Low,1,Yes,Vegetarian,6.94,124/84,"HDL: 61, LDL: 179","Difficulty Speaking, Numbness, Difficulty Speaking, Weakness",Stroke
+65978,Romil Sandal,51,Male,1,0,Married,Never Worked,Rural,83.35,20.65,Non-smoker,Never,Moderate,0,Yes,Vegetarian,1.54,105/82,"HDL: 62, LDL: 130",,Stroke
+8035,Indrans Shenoy,41,Male,1,0,Divorced,Self-employed,Urban,168.31,27.86,Non-smoker,Rarely,Low,1,Yes,Vegetarian,9.84,96/86,"HDL: 60, LDL: 108","Confusion, Weakness, Confusion, Loss of Balance",No Stroke
+39788,Lakshit Master,47,Male,1,1,Single,Self-employed,Rural,133.49,24.95,Formerly Smoked,Rarely,Low,1,No,Non-Vegetarian,2.64,164/78,"HDL: 50, LDL: 142","Seizures, Confusion, Loss of Balance, Loss of Balance, Dizziness",Stroke
+16722,Vihaan Kunda,53,Male,0,1,Single,Self-employed,Urban,101.6,29.75,Non-smoker,Social Drinker,Moderate,0,Yes,Paleo,0.56,91/105,"HDL: 59, LDL: 178",Loss of Balance,No Stroke
+337,Kashvi Kaul,84,Female,0,0,Single,Government Job,Urban,188.67,15.24,Currently Smokes,Rarely,High,1,Yes,Vegetarian,0.99,149/86,"HDL: 49, LDL: 64","Severe Fatigue, Dizziness, Headache, Blurred Vision, Loss of Balance",Stroke
+80286,Madhav Mander,30,Male,0,0,Single,Self-employed,Urban,161.25,20.89,Non-smoker,Rarely,High,1,No,Paleo,2.97,159/68,"HDL: 44, LDL: 175",Headache,Stroke
+31380,Keya Kumer,59,Female,1,1,Single,Self-employed,Urban,167.33,18.75,Formerly Smoked,Rarely,Moderate,0,No,Keto,2.03,110/85,"HDL: 63, LDL: 184",,No Stroke
+60483,Veer Khurana,39,Female,0,0,Divorced,Never Worked,Rural,186.83,16.01,Non-smoker,Never,Moderate,0,No,Pescatarian,1.98,165/105,"HDL: 41, LDL: 82","Loss of Balance, Confusion, Confusion",No Stroke
+25373,Anvi Sandhu,69,Female,0,1,Married,Private,Urban,133.14,32.49,Formerly Smoked,Social Drinker,Low,0,No,Non-Vegetarian,4.16,180/90,"HDL: 36, LDL: 114",Headache,No Stroke
+9611,Zeeshan Bala,26,Male,1,1,Married,Government Job,Rural,130.08,26.64,Non-smoker,Never,High,0,No,Gluten-Free,5.42,150/65,"HDL: 50, LDL: 130","Loss of Balance, Seizures, Difficulty Speaking, Numbness, Seizures",No Stroke
+58619,Madhup Malhotra,19,Female,0,1,Single,Self-employed,Rural,119.33,23.53,Currently Smokes,Frequent Drinker,Low,0,No,Keto,9.03,178/97,"HDL: 72, LDL: 130","Headache, Dizziness",Stroke
+59343,Himmat Shan,21,Male,1,1,Divorced,Government Job,Rural,140.8,20.48,Currently Smokes,Social Drinker,Moderate,1,Yes,Non-Vegetarian,9.89,115/102,"HDL: 35, LDL: 109","Blurred Vision, Numbness",No Stroke
+20213,Reyansh Dixit,22,Female,1,1,Single,Self-employed,Rural,132.16,17.53,Currently Smokes,Never,High,0,Yes,Vegan,8.98,177/68,"HDL: 77, LDL: 100","Headache, Difficulty Speaking, Loss of Balance",No Stroke
+89784,Emir Chokshi,41,Female,0,1,Divorced,Private,Rural,85.22,26.55,Non-smoker,Rarely,High,0,Yes,Vegetarian,0.95,92/96,"HDL: 32, LDL: 89",Difficulty Speaking,Stroke
+16564,Sumer Dubey,55,Male,0,0,Divorced,Private,Urban,149.99,35.38,Non-smoker,Rarely,Low,0,No,Paleo,3.91,104/73,"HDL: 62, LDL: 94","Headache, Weakness, Weakness, Severe Fatigue",Stroke
+17904,Faiyaz Dhawan,29,Female,0,0,Single,Never Worked,Urban,139.65,39.41,Non-smoker,Rarely,High,1,No,Paleo,7.09,133/79,"HDL: 46, LDL: 76","Numbness, Numbness",No Stroke
+77808,Advik Kannan,84,Female,0,1,Married,Self-employed,Urban,179.81,19.08,Non-smoker,Frequent Drinker,High,0,No,Vegetarian,7.33,165/63,"HDL: 80, LDL: 122","Blurred Vision, Severe Fatigue",Stroke
+32109,Oorja Shere,75,Male,0,0,Married,Private,Rural,93.02,29.76,Currently Smokes,Frequent Drinker,Low,1,Yes,Vegan,8.72,106/106,"HDL: 34, LDL: 183","Severe Fatigue, Weakness, Severe Fatigue, Weakness, Difficulty Speaking",No Stroke
+49348,Vritika Kapadia,63,Male,1,0,Divorced,Never Worked,Rural,87.84,16.58,Currently Smokes,Social Drinker,High,1,No,Keto,0.49,124/66,"HDL: 30, LDL: 155","Numbness, Loss of Balance, Blurred Vision, Difficulty Speaking, Dizziness",No Stroke
+8868,Heer Bala,49,Male,1,0,Married,Self-employed,Rural,161.17,30.27,Formerly Smoked,Social Drinker,High,1,Yes,Vegan,0.76,113/85,"HDL: 49, LDL: 156",,No Stroke
+15731,Elakshi Dalal,73,Male,1,1,Divorced,Self-employed,Urban,189.45,33.48,Formerly Smoked,Never,Low,1,Yes,Vegan,9.24,126/102,"HDL: 71, LDL: 114",,No Stroke
+24997,Shaan Sinha,74,Male,0,1,Single,Private,Urban,178.02,32.06,Formerly Smoked,Frequent Drinker,Moderate,0,No,Vegetarian,9.32,113/81,"HDL: 70, LDL: 104",,No Stroke
+15620,Lakshit Rattan,71,Male,0,0,Single,Self-employed,Rural,146,27.11,Non-smoker,Frequent Drinker,Moderate,0,No,Pescatarian,0.96,113/80,"HDL: 43, LDL: 89",,No Stroke
+77952,Shamik Sood,78,Male,0,1,Divorced,Never Worked,Urban,143.92,27.94,Formerly Smoked,Never,Moderate,0,No,Vegan,4.94,149/72,"HDL: 74, LDL: 96","Blurred Vision, Confusion, Numbness, Weakness, Seizures",No Stroke
+4586,Vritika Bhasin,58,Female,0,1,Single,Self-employed,Rural,148,31.98,Formerly Smoked,Social Drinker,High,1,Yes,Pescatarian,4.6,133/110,"HDL: 72, LDL: 164","Severe Fatigue, Numbness, Numbness",No Stroke
+32051,Aniruddh Kala,23,Male,1,1,Single,Private,Rural,135.79,21.73,Currently Smokes,Social Drinker,Moderate,1,No,Gluten-Free,3.83,108/70,"HDL: 67, LDL: 85","Loss of Balance, Difficulty Speaking, Loss of Balance, Dizziness",No Stroke
+25400,Kiara Raja,83,Male,0,0,Married,Self-employed,Urban,67.93,28.24,Currently Smokes,Social Drinker,Moderate,0,Yes,Non-Vegetarian,4.41,95/83,"HDL: 43, LDL: 132",Confusion,Stroke
+29298,Badal Butala,35,Male,0,1,Divorced,Never Worked,Rural,125.65,33.33,Currently Smokes,Social Drinker,Moderate,1,No,Vegetarian,4.85,91/79,"HDL: 73, LDL: 149","Severe Fatigue, Severe Fatigue, Blurred Vision",No Stroke
+60878,Hridaan Mall,83,Female,1,1,Single,Self-employed,Rural,185.45,31.3,Currently Smokes,Frequent Drinker,Low,0,No,Pescatarian,1.23,115/106,"HDL: 80, LDL: 157","Headache, Loss of Balance, Loss of Balance",No Stroke
+90254,Mamooty Bal,55,Female,0,1,Married,Never Worked,Urban,111.74,30.3,Non-smoker,Frequent Drinker,Low,0,Yes,Vegan,5.05,145/107,"HDL: 61, LDL: 81",Difficulty Speaking,No Stroke
+28077,Jayant Chopra,58,Male,1,0,Divorced,Private,Rural,154.35,15.77,Non-smoker,Rarely,Moderate,0,No,Non-Vegetarian,2.08,125/69,"HDL: 60, LDL: 71","Weakness, Dizziness, Dizziness",Stroke
+92744,Anvi Khosla,69,Male,0,1,Divorced,Government Job,Urban,184.8,30.39,Formerly Smoked,Rarely,Moderate,0,Yes,Non-Vegetarian,9.74,174/66,"HDL: 70, LDL: 106","Severe Fatigue, Headache, Loss of Balance",No Stroke
+75416,Rohan Bedi,41,Female,0,0,Single,Self-employed,Urban,129.66,26.22,Formerly Smoked,Never,Moderate,0,No,Gluten-Free,3.29,163/108,"HDL: 32, LDL: 73",Confusion,No Stroke
+67982,Divyansh Sangha,32,Female,0,1,Married,Government Job,Rural,156.43,16.27,Formerly Smoked,Never,High,0,No,Pescatarian,6.12,94/98,"HDL: 77, LDL: 82",Seizures,No Stroke
+52288,Renee Mahal,28,Male,0,1,Single,Private,Urban,117.84,24.17,Currently Smokes,Never,High,1,No,Keto,0.06,125/107,"HDL: 41, LDL: 161","Headache, Severe Fatigue, Headache",No Stroke
+31608,Saanvi Soman,90,Male,0,0,Single,Government Job,Rural,88.06,28.12,Formerly Smoked,Social Drinker,High,1,Yes,Vegan,9.44,175/86,"HDL: 73, LDL: 138",Severe Fatigue,No Stroke
+10051,Drishya Choudhary,22,Male,0,1,Single,Never Worked,Urban,136.66,34.74,Non-smoker,Frequent Drinker,Moderate,0,Yes,Paleo,5.24,180/62,"HDL: 78, LDL: 173","Loss of Balance, Seizures, Confusion, Numbness, Headache",No Stroke
+83637,Mohanlal Srinivas,78,Male,1,0,Divorced,Government Job,Rural,142.14,36.54,Non-smoker,Social Drinker,Moderate,1,No,Keto,6.95,175/64,"HDL: 36, LDL: 145","Severe Fatigue, Difficulty Speaking, Seizures, Dizziness",Stroke
+49228,Shayak Dugar,73,Male,0,1,Divorced,Private,Rural,79.96,34.04,Currently Smokes,Rarely,Low,0,Yes,Keto,7.55,133/82,"HDL: 34, LDL: 131","Blurred Vision, Loss of Balance, Difficulty Speaking",No Stroke
+39160,Ira Bora,53,Female,0,0,Single,Government Job,Urban,101.5,33.08,Non-smoker,Social Drinker,Moderate,0,No,Keto,2.58,175/68,"HDL: 31, LDL: 130",Difficulty Speaking,Stroke
+24773,Kashvi Varty,66,Male,0,1,Married,Government Job,Urban,188.11,15.58,Non-smoker,Rarely,High,1,Yes,Pescatarian,8.25,93/109,"HDL: 50, LDL: 81","Headache, Severe Fatigue, Severe Fatigue, Blurred Vision, Weakness",Stroke
+24980,Lavanya Dey,22,Female,0,1,Married,Government Job,Urban,97.58,39.2,Currently Smokes,Frequent Drinker,Moderate,0,Yes,Vegan,3.29,90/103,"HDL: 80, LDL: 149","Seizures, Blurred Vision, Loss of Balance, Blurred Vision",No Stroke
+77755,Mahika Badami,79,Female,0,0,Single,Self-employed,Rural,145.71,31.21,Non-smoker,Never,Low,1,No,Keto,9.86,154/67,"HDL: 75, LDL: 174","Severe Fatigue, Blurred Vision",Stroke
+69080,Jivin Thaman,82,Female,1,1,Married,Private,Rural,174.4,27.99,Currently Smokes,Never,High,1,No,Vegan,3.39,155/64,"HDL: 60, LDL: 148","Loss of Balance, Blurred Vision, Dizziness, Dizziness, Confusion",No Stroke
+66733,Kashvi Rastogi,48,Female,0,0,Divorced,Private,Urban,136.48,20.22,Formerly Smoked,Never,Moderate,0,No,Keto,1.27,98/60,"HDL: 53, LDL: 152",Headache,No Stroke
+36900,Jayesh Sidhu,56,Female,0,0,Single,Private,Urban,135.39,37.04,Currently Smokes,Never,Moderate,0,Yes,Keto,5.28,154/64,"HDL: 33, LDL: 93",Severe Fatigue,Stroke
+15263,Myra Solanki,25,Female,0,0,Married,Self-employed,Rural,142.83,18.37,Currently Smokes,Rarely,High,0,Yes,Gluten-Free,3.19,160/83,"HDL: 60, LDL: 94",Difficulty Speaking,Stroke
+24018,Anahi Sandhu,24,Male,0,0,Divorced,Private,Rural,195.97,27.56,Non-smoker,Rarely,Moderate,0,No,Pescatarian,3.53,132/75,"HDL: 32, LDL: 130","Dizziness, Seizures, Seizures, Blurred Vision",Stroke
+27334,Akarsh Bahl,57,Male,0,1,Married,Never Worked,Urban,117.86,27.21,Formerly Smoked,Rarely,High,0,Yes,Pescatarian,1.78,135/106,"HDL: 35, LDL: 115","Difficulty Speaking, Numbness, Dizziness",No Stroke
+68844,Vidur Bakshi,28,Male,0,1,Single,Government Job,Urban,87.21,19.35,Formerly Smoked,Frequent Drinker,High,1,No,Paleo,9.64,102/101,"HDL: 34, LDL: 66",Blurred Vision,Stroke
+40502,Indranil Gupta,42,Male,0,0,Single,Government Job,Urban,141.72,27.99,Formerly Smoked,Never,Moderate,1,Yes,Paleo,6.74,129/107,"HDL: 53, LDL: 129","Severe Fatigue, Headache, Confusion, Headache",Stroke
+61877,Zain Ramachandran,59,Female,0,0,Divorced,Government Job,Urban,158.58,15.68,Formerly Smoked,Rarely,High,0,No,Paleo,0.57,132/75,"HDL: 43, LDL: 153",Loss of Balance,Stroke
+85115,Pranay Bhardwaj,88,Male,0,0,Married,Government Job,Rural,186.81,36.88,Currently Smokes,Frequent Drinker,High,1,No,Non-Vegetarian,0.43,162/85,"HDL: 49, LDL: 86",,Stroke
+74024,Hrishita Grewal,69,Male,0,0,Single,Private,Urban,140.88,34.15,Currently Smokes,Never,High,1,No,Keto,3.64,98/65,"HDL: 77, LDL: 175","Dizziness, Dizziness",Stroke
+68477,Tiya Chakraborty,84,Female,0,1,Married,Private,Urban,94.36,17.36,Non-smoker,Never,Low,0,Yes,Vegetarian,4.84,131/95,"HDL: 61, LDL: 117","Blurred Vision, Confusion",Stroke
+55004,Aayush Yogi,62,Female,0,0,Married,Government Job,Rural,115.29,19.98,Currently Smokes,Never,Moderate,0,No,Gluten-Free,7.93,123/100,"HDL: 38, LDL: 107","Weakness, Confusion",No Stroke
+97744,Shaan Goyal,80,Male,0,1,Single,Government Job,Rural,160.9,37.59,Currently Smokes,Rarely,High,1,Yes,Keto,1.85,164/74,"HDL: 57, LDL: 80",Blurred Vision,Stroke
+37128,Indrans Krishna,70,Male,1,0,Married,Private,Rural,128.28,19.98,Currently Smokes,Never,Low,0,Yes,Keto,4.66,155/93,"HDL: 77, LDL: 143",Confusion,No Stroke
+38448,Ahana  Uppal,59,Male,1,1,Single,Government Job,Rural,66.89,30.58,Currently Smokes,Frequent Drinker,Moderate,1,No,Keto,5.99,118/68,"HDL: 63, LDL: 189","Blurred Vision, Severe Fatigue, Weakness",No Stroke
+1550,Amira Rattan,68,Female,0,1,Single,Government Job,Rural,132.45,36.63,Non-smoker,Social Drinker,Moderate,1,Yes,Non-Vegetarian,1.91,157/98,"HDL: 43, LDL: 160","Seizures, Headache, Headache",No Stroke
+73216,Kimaya Malhotra,50,Male,1,0,Married,Self-employed,Urban,120.42,26.72,Formerly Smoked,Frequent Drinker,Low,0,No,Gluten-Free,9.55,128/100,"HDL: 80, LDL: 162",Dizziness,Stroke
+16288,Nakul Dass,39,Female,0,0,Married,Government Job,Urban,112.55,18.99,Non-smoker,Never,High,0,No,Pescatarian,2.47,160/104,"HDL: 36, LDL: 170","Headache, Severe Fatigue",Stroke
+39521,Kartik Shah,40,Female,0,1,Single,Never Worked,Urban,77.9,30.92,Formerly Smoked,Never,Low,0,No,Paleo,4.08,171/98,"HDL: 39, LDL: 129","Loss of Balance, Difficulty Speaking, Blurred Vision, Difficulty Speaking, Dizziness",Stroke
+45891,Piya Mani,72,Male,0,0,Married,Private,Urban,96,20.29,Formerly Smoked,Frequent Drinker,High,0,Yes,Paleo,3.88,98/83,"HDL: 30, LDL: 65",,Stroke
+65953,Vivaan Sarraf,65,Male,1,0,Divorced,Self-employed,Rural,114.26,23.55,Currently Smokes,Social Drinker,Moderate,0,No,Paleo,4.58,100/108,"HDL: 70, LDL: 78",,No Stroke
+50210,Mahika Bhatt,26,Female,0,0,Divorced,Never Worked,Urban,65.41,24.93,Formerly Smoked,Never,High,0,Yes,Pescatarian,7.86,135/110,"HDL: 71, LDL: 164","Severe Fatigue, Difficulty Speaking, Numbness, Severe Fatigue",No Stroke
+57716,Vihaan Edwin,48,Female,0,1,Divorced,Government Job,Rural,168.77,21.34,Non-smoker,Never,High,0,No,Paleo,5.4,135/74,"HDL: 36, LDL: 184","Blurred Vision, Loss of Balance, Difficulty Speaking",No Stroke
+98833,Devansh Chada,70,Male,1,1,Married,Never Worked,Rural,189.76,23.64,Formerly Smoked,Frequent Drinker,Moderate,0,No,Vegetarian,3.13,176/76,"HDL: 51, LDL: 180","Seizures, Weakness, Dizziness, Headache, Dizziness",Stroke
+15258,Mehul Raval,34,Male,1,1,Single,Never Worked,Urban,160.96,28.29,Non-smoker,Rarely,High,1,No,Gluten-Free,3.56,157/101,"HDL: 74, LDL: 180","Difficulty Speaking, Confusion",Stroke
+77990,Rohan Kanda,31,Female,1,1,Married,Government Job,Urban,122.33,35.79,Non-smoker,Rarely,High,1,No,Pescatarian,5.57,162/64,"HDL: 74, LDL: 187",Loss of Balance,Stroke
+4946,Anahita Kala,52,Female,1,0,Single,Government Job,Urban,98.86,31.92,Currently Smokes,Rarely,Low,0,No,Vegetarian,3.05,147/89,"HDL: 45, LDL: 80","Headache, Loss of Balance, Numbness",No Stroke
+46591,Taimur Dash,78,Female,0,1,Divorced,Government Job,Rural,137.19,18.49,Non-smoker,Rarely,Moderate,1,No,Paleo,6.58,124/85,"HDL: 33, LDL: 150","Blurred Vision, Loss of Balance",Stroke
+71298,Stuvan Mann,51,Male,0,0,Divorced,Government Job,Urban,132.86,35.47,Non-smoker,Social Drinker,Low,0,Yes,Paleo,4.22,114/89,"HDL: 35, LDL: 185","Dizziness, Blurred Vision, Numbness, Dizziness",Stroke
+48920,Rhea Sinha,86,Male,0,0,Divorced,Government Job,Urban,81.54,29.7,Currently Smokes,Rarely,Moderate,0,No,Gluten-Free,7.58,148/75,"HDL: 55, LDL: 188","Headache, Confusion, Severe Fatigue, Confusion",Stroke
+92387,Faiyaz Kuruvilla,34,Female,1,0,Single,Never Worked,Rural,196.01,19.97,Formerly Smoked,Rarely,High,0,No,Pescatarian,7.29,101/76,"HDL: 36, LDL: 101","Blurred Vision, Dizziness",Stroke
+74402,Ishita Bhatt,54,Female,1,0,Single,Private,Rural,118.72,32.59,Formerly Smoked,Frequent Drinker,High,1,Yes,Gluten-Free,9.4,140/69,"HDL: 32, LDL: 120","Headache, Difficulty Speaking",Stroke
+46183,Vedika Luthra,76,Male,0,1,Married,Never Worked,Rural,135.89,17.29,Currently Smokes,Rarely,High,0,No,Keto,4.84,93/65,"HDL: 30, LDL: 61",Seizures,No Stroke
+59686,Mahika Yohannan,57,Female,1,0,Married,Never Worked,Rural,170.04,21.12,Formerly Smoked,Never,Low,1,Yes,Paleo,1.07,144/100,"HDL: 30, LDL: 139",,Stroke
+35431,Ivana Devan,84,Male,0,0,Single,Never Worked,Urban,167.78,31.31,Non-smoker,Never,Low,0,Yes,Vegetarian,1.05,163/75,"HDL: 77, LDL: 134","Numbness, Severe Fatigue, Numbness, Weakness",No Stroke
+94615,Yasmin Chadha,76,Male,0,0,Divorced,Private,Rural,161.56,28.04,Formerly Smoked,Social Drinker,Moderate,0,Yes,Gluten-Free,5.48,166/85,"HDL: 37, LDL: 157","Seizures, Severe Fatigue, Dizziness, Dizziness",No Stroke
+34713,Purab Chadha,89,Female,1,0,Single,Government Job,Urban,77.36,36.1,Currently Smokes,Never,Moderate,0,No,Gluten-Free,4.1,146/87,"HDL: 49, LDL: 141",,No Stroke
+39020,Saksham Chanda,36,Male,1,1,Divorced,Government Job,Urban,120.8,15.85,Non-smoker,Social Drinker,High,0,No,Pescatarian,7.03,126/91,"HDL: 49, LDL: 175","Dizziness, Headache, Dizziness",No Stroke
+46985,Ranbir Rout,52,Male,0,0,Single,Private,Rural,89.94,39.67,Formerly Smoked,Social Drinker,Low,1,Yes,Keto,6.8,108/109,"HDL: 68, LDL: 134","Loss of Balance, Loss of Balance",No Stroke
+61993,Hiran Seth,48,Male,1,0,Married,Never Worked,Rural,164.29,24.02,Formerly Smoked,Frequent Drinker,Moderate,0,Yes,Paleo,4.47,178/110,"HDL: 38, LDL: 85",Confusion,No Stroke
+75223,Gokul Sastry,27,Male,0,0,Married,Private,Urban,152.17,21.25,Currently Smokes,Social Drinker,Moderate,1,No,Keto,4.04,112/103,"HDL: 51, LDL: 175",Loss of Balance,No Stroke
+22329,Lavanya Borra,70,Male,1,1,Married,Government Job,Urban,183.5,27.87,Currently Smokes,Social Drinker,Moderate,1,No,Gluten-Free,9.8,103/79,"HDL: 32, LDL: 93","Severe Fatigue, Weakness, Seizures, Blurred Vision, Weakness",Stroke
+50317,Kavya Khatri,67,Male,1,1,Divorced,Self-employed,Urban,102.73,23.74,Non-smoker,Rarely,Low,1,No,Keto,4.74,125/92,"HDL: 40, LDL: 110","Weakness, Seizures, Loss of Balance",No Stroke
+60713,Ivan Butala,50,Female,0,0,Single,Self-employed,Urban,141.56,16.95,Formerly Smoked,Never,High,1,No,Vegan,0.52,121/99,"HDL: 58, LDL: 134","Severe Fatigue, Headache, Confusion",Stroke
+76395,Saksham Chaudhry,77,Male,0,1,Single,Self-employed,Rural,81.17,28.61,Formerly Smoked,Social Drinker,High,0,No,Gluten-Free,7.17,144/89,"HDL: 39, LDL: 89",Dizziness,Stroke
+90238,Rhea Das,47,Female,0,1,Married,Private,Rural,197.96,30.44,Non-smoker,Never,High,1,Yes,Vegetarian,0.38,159/84,"HDL: 36, LDL: 62","Dizziness, Difficulty Speaking, Severe Fatigue, Seizures",Stroke
+33447,Sumer Vohra,41,Female,0,1,Single,Never Worked,Rural,179.73,21.79,Formerly Smoked,Frequent Drinker,Moderate,0,No,Non-Vegetarian,0.06,172/71,"HDL: 75, LDL: 93",Numbness,Stroke
+32,Hridaan Soman,34,Male,0,1,Divorced,Never Worked,Urban,156.81,36.33,Non-smoker,Never,High,0,Yes,Gluten-Free,6.2,114/102,"HDL: 74, LDL: 120",Numbness,No Stroke
+39552,Indranil Dave,46,Female,0,0,Married,Government Job,Rural,78.64,19.63,Currently Smokes,Never,Low,0,Yes,Non-Vegetarian,2.78,95/90,"HDL: 44, LDL: 147","Seizures, Severe Fatigue, Headache, Severe Fatigue, Numbness",Stroke
+21303,Kabir Swaminathan,64,Male,0,1,Single,Government Job,Urban,126.38,31.34,Non-smoker,Frequent Drinker,High,0,Yes,Keto,2.25,115/69,"HDL: 80, LDL: 126","Headache, Blurred Vision, Loss of Balance, Dizziness, Weakness",Stroke
+38379,Mannat Khurana,18,Male,0,0,Single,Government Job,Urban,71.12,37.67,Formerly Smoked,Rarely,Low,1,Yes,Pescatarian,6.06,154/67,"HDL: 50, LDL: 117",Headache,Stroke
+44803,Kiara Lala,22,Male,0,1,Single,Self-employed,Urban,84.02,30.8,Currently Smokes,Never,Moderate,1,No,Keto,9.6,169/68,"HDL: 45, LDL: 118",,No Stroke
+42412,Akarsh Doshi,88,Female,0,1,Divorced,Self-employed,Rural,141.09,31.63,Formerly Smoked,Never,Low,0,No,Pescatarian,8.46,115/75,"HDL: 46, LDL: 95","Difficulty Speaking, Seizures, Numbness",Stroke
+35750,Diya Reddy,39,Male,1,0,Divorced,Private,Rural,79.87,38.99,Formerly Smoked,Rarely,High,0,No,Gluten-Free,7.98,151/108,"HDL: 79, LDL: 148","Dizziness, Confusion, Difficulty Speaking, Headache",Stroke
+27612,Vidur Jaggi,85,Female,0,0,Divorced,Private,Rural,157.42,21.82,Currently Smokes,Social Drinker,Moderate,0,No,Gluten-Free,6.91,113/100,"HDL: 64, LDL: 102","Headache, Blurred Vision, Blurred Vision, Difficulty Speaking, Seizures",No Stroke
+61772,Manjari Ratta,40,Female,1,0,Divorced,Self-employed,Rural,114.76,19.39,Non-smoker,Rarely,High,1,Yes,Vegan,2.06,93/62,"HDL: 31, LDL: 69","Blurred Vision, Seizures",No Stroke
+22195,Umang Raj,55,Female,0,0,Divorced,Self-employed,Rural,197.28,19.67,Non-smoker,Rarely,Moderate,1,Yes,Pescatarian,7.08,141/89,"HDL: 67, LDL: 152",,No Stroke
+8168,Kanav Mannan,78,Male,0,0,Married,Private,Urban,81.4,35.77,Currently Smokes,Rarely,Moderate,0,Yes,Gluten-Free,4.67,120/97,"HDL: 46, LDL: 127","Dizziness, Numbness, Headache, Difficulty Speaking",No Stroke
+35852,Bhamini Thakkar,76,Female,0,0,Married,Private,Rural,104.41,16.79,Formerly Smoked,Frequent Drinker,Moderate,0,No,Pescatarian,2.64,179/107,"HDL: 48, LDL: 111","Dizziness, Headache",Stroke
+96790,Ivan Iyer,89,Male,0,0,Divorced,Never Worked,Urban,68.76,37.14,Formerly Smoked,Frequent Drinker,Moderate,1,Yes,Gluten-Free,7.6,161/89,"HDL: 65, LDL: 75","Confusion, Weakness, Headache, Dizziness, Blurred Vision",No Stroke
+89945,Nitara Bali,35,Male,1,1,Married,Self-employed,Urban,167.06,26.85,Formerly Smoked,Rarely,High,0,No,Gluten-Free,5.56,164/93,"HDL: 70, LDL: 100","Loss of Balance, Difficulty Speaking",Stroke
+43557,Lavanya Swamy,60,Male,0,1,Married,Government Job,Rural,79.2,30.47,Formerly Smoked,Rarely,High,1,Yes,Vegan,1.76,91/62,"HDL: 70, LDL: 106","Headache, Seizures, Seizures, Numbness, Headache",Stroke
+95071,Akarsh Garde,64,Male,1,0,Single,Self-employed,Urban,143.06,20.66,Currently Smokes,Rarely,Low,0,No,Vegetarian,7.24,163/69,"HDL: 66, LDL: 146",Blurred Vision,Stroke
+88200,Nirvi Suresh,31,Male,0,0,Single,Self-employed,Rural,171.18,38.29,Non-smoker,Frequent Drinker,High,0,Yes,Keto,2.95,153/74,"HDL: 67, LDL: 178","Numbness, Confusion, Headache, Weakness",No Stroke
+8922,Hrishita Shukla,65,Male,0,1,Divorced,Self-employed,Urban,195.94,24.76,Formerly Smoked,Rarely,Low,0,No,Keto,5.88,120/62,"HDL: 56, LDL: 151",Blurred Vision,Stroke
+14302,Ayesha Sahni,55,Female,0,0,Single,Never Worked,Rural,162.77,23.78,Currently Smokes,Social Drinker,Moderate,1,Yes,Vegan,9.9,157/99,"HDL: 61, LDL: 160","Severe Fatigue, Blurred Vision, Dizziness, Confusion",Stroke
+85930,Jivika Sundaram,26,Female,0,0,Divorced,Government Job,Urban,197.41,27.94,Formerly Smoked,Frequent Drinker,Low,0,Yes,Paleo,8.12,102/107,"HDL: 47, LDL: 188","Confusion, Loss of Balance, Severe Fatigue",No Stroke
+38414,Kiara Sood,74,Male,0,1,Divorced,Self-employed,Rural,155.92,18.79,Formerly Smoked,Never,Low,0,Yes,Non-Vegetarian,6.07,91/96,"HDL: 46, LDL: 75","Severe Fatigue, Seizures, Weakness",No Stroke
+17182,Arnav Ray,87,Male,1,0,Married,Never Worked,Rural,104.93,17.39,Currently Smokes,Frequent Drinker,Low,1,Yes,Vegetarian,2.96,160/67,"HDL: 50, LDL: 172","Severe Fatigue, Confusion",No Stroke
+81026,Shayak Behl,65,Male,1,1,Married,Private,Rural,133.26,37.56,Non-smoker,Frequent Drinker,Low,1,Yes,Vegan,9.34,158/67,"HDL: 68, LDL: 121",Blurred Vision,No Stroke
+35755,Heer Butala,55,Male,0,0,Married,Government Job,Rural,177.96,25.54,Non-smoker,Never,High,0,Yes,Vegetarian,6.98,117/63,"HDL: 79, LDL: 165",,Stroke
+93245,Saanvi Ramakrishnan,28,Female,0,1,Single,Private,Urban,185.9,16.36,Currently Smokes,Frequent Drinker,Low,1,Yes,Keto,2.99,92/64,"HDL: 43, LDL: 112",,No Stroke
+59031,Taimur Issac,33,Female,0,0,Divorced,Private,Urban,189.26,26.06,Non-smoker,Frequent Drinker,Low,1,Yes,Paleo,3.63,171/80,"HDL: 63, LDL: 138","Loss of Balance, Headache, Weakness",Stroke
+16627,Pihu Sharaf,34,Female,0,0,Divorced,Government Job,Urban,94.35,31.57,Formerly Smoked,Social Drinker,High,1,No,Vegan,1.48,168/71,"HDL: 57, LDL: 141","Seizures, Weakness",No Stroke
+83966,Jivin Gera,84,Male,0,1,Single,Self-employed,Urban,120.68,19.72,Currently Smokes,Social Drinker,Moderate,0,No,Keto,4.06,148/86,"HDL: 51, LDL: 128","Numbness, Loss of Balance, Difficulty Speaking, Confusion",No Stroke
+41506,Ivan Thaker,24,Male,0,0,Divorced,Private,Urban,184.77,31.8,Formerly Smoked,Rarely,Moderate,1,Yes,Keto,6.43,130/108,"HDL: 79, LDL: 138",Headache,Stroke
+48805,Fateh Gaba,79,Female,1,0,Married,Government Job,Urban,192.67,18.79,Non-smoker,Social Drinker,High,0,Yes,Vegetarian,4.11,170/87,"HDL: 41, LDL: 80",Numbness,No Stroke
+14851,Hrishita Dutta,78,Female,0,1,Divorced,Private,Urban,197.75,27.73,Non-smoker,Rarely,High,0,No,Keto,7.11,164/86,"HDL: 77, LDL: 187","Weakness, Loss of Balance, Dizziness, Difficulty Speaking, Dizziness",No Stroke
+40061,Anahi Anne,38,Male,0,0,Divorced,Self-employed,Urban,166.4,18.31,Non-smoker,Frequent Drinker,Low,1,Yes,Pescatarian,3.88,163/82,"HDL: 52, LDL: 188","Numbness, Severe Fatigue, Difficulty Speaking",Stroke
+46421,Ryan Wable,66,Female,0,1,Divorced,Private,Rural,95.15,29.82,Formerly Smoked,Frequent Drinker,High,0,No,Gluten-Free,5.73,121/106,"HDL: 71, LDL: 86","Blurred Vision, Headache, Confusion",No Stroke
+36870,Indrajit Bedi,59,Male,0,1,Divorced,Never Worked,Urban,115.87,18.91,Currently Smokes,Social Drinker,High,1,Yes,Non-Vegetarian,7.03,171/104,"HDL: 79, LDL: 105","Confusion, Loss of Balance, Severe Fatigue",No Stroke
+79571,Yasmin Magar,70,Male,0,1,Single,Self-employed,Urban,148.37,24.98,Formerly Smoked,Social Drinker,Moderate,1,No,Vegetarian,9.61,108/67,"HDL: 76, LDL: 86",,No Stroke
+74906,Nirvaan Jhaveri,18,Male,0,0,Single,Government Job,Urban,108.92,19.42,Formerly Smoked,Social Drinker,High,0,No,Non-Vegetarian,4.84,116/106,"HDL: 34, LDL: 183",,No Stroke
+2594,Trisha Kapur,52,Male,0,0,Married,Government Job,Urban,194.84,34.16,Non-smoker,Never,High,0,Yes,Gluten-Free,3.12,162/77,"HDL: 71, LDL: 177",,No Stroke
+53562,Lagan Borah,35,Female,0,0,Married,Self-employed,Rural,78.57,38.15,Formerly Smoked,Social Drinker,High,1,No,Keto,0.35,94/107,"HDL: 50, LDL: 83","Numbness, Confusion",Stroke
+56902,Heer Som,25,Female,0,0,Divorced,Never Worked,Urban,96.56,20.94,Non-smoker,Never,High,0,No,Pescatarian,5.51,160/76,"HDL: 60, LDL: 72","Confusion, Dizziness",Stroke
+14531,Rasha Gulati,71,Male,0,1,Single,Government Job,Rural,101.63,20.83,Currently Smokes,Frequent Drinker,Moderate,0,No,Vegan,2.91,149/84,"HDL: 76, LDL: 76","Blurred Vision, Confusion",No Stroke
+2309,Vedika Atwal,33,Female,0,0,Married,Never Worked,Rural,177.43,33.73,Currently Smokes,Never,Moderate,0,Yes,Vegan,5.38,135/74,"HDL: 73, LDL: 145","Blurred Vision, Headache, Seizures",No Stroke
+90273,Sumer Sama,67,Male,0,1,Married,Never Worked,Rural,165.17,39.36,Formerly Smoked,Rarely,High,0,No,Vegan,0.41,169/61,"HDL: 76, LDL: 171",,No Stroke
+66426,Taimur Sane,60,Male,0,0,Married,Government Job,Urban,67.95,37.87,Non-smoker,Never,Low,1,Yes,Vegetarian,5.93,103/99,"HDL: 48, LDL: 105","Numbness, Difficulty Speaking, Dizziness, Numbness",Stroke
+12255,Pranay Kara,41,Male,0,1,Single,Private,Urban,68.62,30.13,Non-smoker,Social Drinker,Low,0,No,Paleo,6.32,95/72,"HDL: 33, LDL: 114",,Stroke
+7487,Ela Balan,89,Male,0,0,Single,Never Worked,Urban,90.46,28.58,Non-smoker,Social Drinker,Low,1,No,Non-Vegetarian,0.03,109/109,"HDL: 39, LDL: 168",,Stroke
+86458,Ahana  Ramanathan,41,Female,0,0,Single,Private,Rural,169.51,26,Non-smoker,Frequent Drinker,High,1,Yes,Gluten-Free,6.46,135/69,"HDL: 38, LDL: 99","Seizures, Dizziness, Loss of Balance, Numbness",Stroke
+7775,Ryan Sridhar,90,Male,1,0,Divorced,Private,Urban,78.97,21.08,Currently Smokes,Social Drinker,Moderate,1,Yes,Pescatarian,7.8,116/62,"HDL: 31, LDL: 118","Numbness, Difficulty Speaking, Confusion",Stroke
+32610,Drishya Bora,29,Male,0,1,Married,Private,Rural,135.22,16.3,Currently Smokes,Never,Low,1,No,Non-Vegetarian,0.87,121/92,"HDL: 77, LDL: 65","Numbness, Loss of Balance, Severe Fatigue, Loss of Balance, Weakness",Stroke
+7845,Alisha Ratti,77,Female,1,0,Divorced,Government Job,Rural,140.56,32.37,Non-smoker,Rarely,Moderate,0,No,Pescatarian,3.03,136/64,"HDL: 52, LDL: 108","Numbness, Numbness, Loss of Balance, Severe Fatigue",No Stroke
+92063,Madhup Chhabra,39,Male,1,0,Single,Self-employed,Urban,125.66,16.7,Non-smoker,Never,High,1,Yes,Paleo,3.66,174/83,"HDL: 51, LDL: 183","Seizures, Weakness, Dizziness",No Stroke
+44527,Lavanya Chacko,74,Female,0,1,Divorced,Self-employed,Rural,74.2,38.43,Non-smoker,Rarely,Moderate,0,No,Vegan,8.89,173/86,"HDL: 75, LDL: 124","Numbness, Seizures, Difficulty Speaking, Weakness",No Stroke
+36269,Shaan Karan,63,Female,0,0,Single,Never Worked,Rural,176.82,29.26,Formerly Smoked,Frequent Drinker,Low,0,No,Pescatarian,7.33,139/98,"HDL: 36, LDL: 111","Confusion, Seizures, Confusion",No Stroke
+9028,Raunak Dayal,20,Male,0,0,Divorced,Government Job,Rural,184.82,26.01,Currently Smokes,Rarely,Moderate,1,No,Vegetarian,0.53,161/79,"HDL: 66, LDL: 124","Difficulty Speaking, Seizures",Stroke
+68217,Kavya Choudhary,89,Male,1,1,Divorced,Government Job,Rural,187.1,17.81,Formerly Smoked,Frequent Drinker,Moderate,0,Yes,Vegan,1.77,124/66,"HDL: 58, LDL: 95","Blurred Vision, Confusion",No Stroke
+82210,Mehul Shankar,74,Female,1,1,Married,Never Worked,Urban,102.96,23.15,Non-smoker,Frequent Drinker,Low,1,Yes,Keto,8.72,177/66,"HDL: 72, LDL: 78","Dizziness, Numbness",No Stroke
+41438,Fateh Bose,31,Male,0,0,Single,Never Worked,Rural,101.42,34.21,Non-smoker,Frequent Drinker,High,0,No,Paleo,0.47,150/63,"HDL: 80, LDL: 164","Headache, Loss of Balance",No Stroke
+854,Taran Bhat,35,Female,1,0,Single,Never Worked,Rural,99.28,21.92,Formerly Smoked,Frequent Drinker,Low,1,Yes,Paleo,9.56,122/60,"HDL: 66, LDL: 97","Seizures, Difficulty Speaking",No Stroke
+26060,Hazel Mallick,75,Male,0,0,Married,Private,Urban,126.36,24.14,Currently Smokes,Never,Moderate,1,Yes,Keto,6.02,180/87,"HDL: 72, LDL: 153","Seizures, Severe Fatigue, Severe Fatigue, Confusion",Stroke
+46986,Arnav Mahal,77,Male,0,0,Married,Private,Rural,90.8,39.97,Currently Smokes,Rarely,Low,0,Yes,Gluten-Free,1.42,134/96,"HDL: 54, LDL: 178","Headache, Confusion",No Stroke
+90023,Jayant Comar,64,Female,0,0,Single,Never Worked,Urban,154.69,23.04,Currently Smokes,Rarely,Moderate,0,No,Vegetarian,8.12,127/104,"HDL: 38, LDL: 153","Numbness, Weakness, Weakness, Severe Fatigue, Confusion",No Stroke
+21817,Jayesh Roy,61,Male,0,1,Married,Private,Urban,147.19,31.42,Currently Smokes,Frequent Drinker,Low,1,Yes,Paleo,4.41,157/96,"HDL: 32, LDL: 112","Numbness, Seizures, Headache",No Stroke
+54582,Fateh Bath,18,Male,1,0,Married,Private,Urban,91.47,27.27,Formerly Smoked,Never,Moderate,0,Yes,Pescatarian,0.87,141/92,"HDL: 58, LDL: 141",Numbness,No Stroke
+72021,Anika Bhandari,82,Female,0,0,Divorced,Government Job,Rural,159.36,23.84,Non-smoker,Never,High,1,No,Paleo,3.36,150/65,"HDL: 40, LDL: 120","Blurred Vision, Numbness, Loss of Balance, Seizures, Difficulty Speaking",Stroke
+118,Zain Malhotra,23,Female,0,1,Divorced,Never Worked,Urban,120.55,24.86,Formerly Smoked,Rarely,Low,0,No,Vegetarian,4.22,108/67,"HDL: 30, LDL: 102",Weakness,No Stroke
+25609,Baiju Joshi,88,Female,1,1,Divorced,Never Worked,Urban,174,37.27,Non-smoker,Social Drinker,High,1,Yes,Keto,9.21,157/70,"HDL: 33, LDL: 129","Weakness, Severe Fatigue, Dizziness, Dizziness",No Stroke
+23815,Diya Chaudhuri,82,Female,0,0,Married,Self-employed,Rural,102.62,17.02,Non-smoker,Social Drinker,Moderate,0,No,Pescatarian,6.59,160/88,"HDL: 38, LDL: 73","Dizziness, Confusion, Confusion, Numbness",No Stroke
+88345,Piya Srinivas,22,Female,1,0,Single,Never Worked,Rural,138.8,32.42,Currently Smokes,Social Drinker,Moderate,0,Yes,Vegan,8.84,98/109,"HDL: 70, LDL: 144",,No Stroke
+87505,Pranay Bawa,82,Female,0,1,Married,Private,Urban,117.04,37.74,Currently Smokes,Rarely,High,1,Yes,Pescatarian,7.77,105/94,"HDL: 42, LDL: 150","Numbness, Weakness, Numbness, Dizziness, Weakness",Stroke
+94137,Jayant Bhatti,56,Female,1,0,Divorced,Government Job,Urban,93.02,22.29,Non-smoker,Social Drinker,High,1,Yes,Non-Vegetarian,4.75,163/108,"HDL: 32, LDL: 160","Headache, Loss of Balance, Severe Fatigue, Dizziness",Stroke
+193,Charvi Sabharwal,65,Male,0,0,Divorced,Never Worked,Urban,77.37,21.69,Non-smoker,Frequent Drinker,Low,0,Yes,Vegan,4.16,100/104,"HDL: 55, LDL: 115","Loss of Balance, Numbness, Weakness, Severe Fatigue",Stroke
+62014,Vivaan Sachdeva,56,Female,1,0,Divorced,Private,Urban,177.81,29.57,Formerly Smoked,Frequent Drinker,High,1,No,Gluten-Free,4.55,96/107,"HDL: 58, LDL: 162",Loss of Balance,Stroke
+557,Vardaniya Bandi,38,Female,0,1,Divorced,Never Worked,Urban,65.53,29.18,Currently Smokes,Never,Low,1,Yes,Vegan,9.08,148/66,"HDL: 54, LDL: 116","Headache, Weakness",Stroke
+48609,Amira Dugar,47,Female,0,1,Married,Government Job,Rural,71.88,37.35,Formerly Smoked,Never,High,1,Yes,Keto,4.61,147/99,"HDL: 80, LDL: 142","Numbness, Blurred Vision, Loss of Balance",Stroke
+70667,Ranbir Rao,42,Male,1,0,Married,Government Job,Rural,60.48,20.81,Formerly Smoked,Social Drinker,Moderate,1,No,Keto,6,149/86,"HDL: 63, LDL: 179","Loss of Balance, Severe Fatigue",No Stroke
+25169,Divit Keer,83,Male,1,0,Married,Never Worked,Rural,167.22,23.69,Non-smoker,Rarely,Low,0,Yes,Non-Vegetarian,7.19,153/109,"HDL: 54, LDL: 117","Loss of Balance, Loss of Balance, Headache",No Stroke
+35950,Mannat Soni,21,Female,0,0,Divorced,Never Worked,Rural,121.14,36.99,Formerly Smoked,Never,Low,1,Yes,Keto,8.8,154/107,"HDL: 59, LDL: 156","Headache, Seizures",No Stroke
+76111,Indrajit Mane,69,Male,0,1,Married,Government Job,Rural,154.26,29.95,Formerly Smoked,Rarely,Low,0,Yes,Vegan,8.08,171/95,"HDL: 80, LDL: 111",,Stroke
+69180,Raunak Rao,90,Female,1,1,Married,Private,Urban,131.22,18.25,Formerly Smoked,Social Drinker,Moderate,0,Yes,Paleo,0.73,176/70,"HDL: 62, LDL: 85","Numbness, Headache, Weakness, Loss of Balance",Stroke
+72673,Riya Kant,38,Female,1,1,Married,Never Worked,Rural,126.95,36.79,Non-smoker,Social Drinker,Moderate,0,No,Pescatarian,7.99,105/60,"HDL: 69, LDL: 157",Blurred Vision,No Stroke
+95651,Anika Lad,76,Female,0,1,Single,Never Worked,Rural,68.46,27.42,Currently Smokes,Frequent Drinker,Low,1,No,Gluten-Free,9.32,176/69,"HDL: 80, LDL: 165","Headache, Dizziness, Blurred Vision, Loss of Balance",Stroke
+99233,Darshit Buch,47,Male,0,1,Divorced,Private,Rural,70.96,37.32,Currently Smokes,Frequent Drinker,Moderate,0,Yes,Paleo,7.56,102/98,"HDL: 52, LDL: 131","Confusion, Numbness, Dizziness, Confusion, Blurred Vision",No Stroke
+19,Pari Gade,42,Female,1,0,Single,Never Worked,Rural,112.81,25.98,Non-smoker,Social Drinker,Moderate,0,No,Keto,8.81,133/64,"HDL: 78, LDL: 60","Confusion, Headache, Blurred Vision, Confusion",No Stroke
+15033,Divit Edwin,50,Female,0,0,Married,Self-employed,Rural,137.39,24.05,Currently Smokes,Never,High,1,Yes,Gluten-Free,3.51,94/62,"HDL: 75, LDL: 117","Severe Fatigue, Confusion, Seizures, Blurred Vision, Loss of Balance",Stroke
+296,Piya Cheema,70,Female,1,1,Divorced,Never Worked,Urban,91.25,16.06,Currently Smokes,Rarely,Moderate,1,Yes,Non-Vegetarian,2.63,118/96,"HDL: 42, LDL: 184","Loss of Balance, Numbness, Weakness, Difficulty Speaking",No Stroke
+80535,Advik Wagle,28,Female,0,0,Single,Self-employed,Rural,180.82,20.75,Currently Smokes,Social Drinker,High,0,Yes,Gluten-Free,1.83,90/90,"HDL: 72, LDL: 140","Numbness, Weakness, Headache, Loss of Balance",Stroke
+28113,Keya Hayer,45,Male,0,0,Divorced,Never Worked,Urban,150.01,23.32,Currently Smokes,Rarely,High,0,Yes,Pescatarian,4.97,97/71,"HDL: 77, LDL: 162","Numbness, Confusion, Numbness, Seizures, Headache",No Stroke
+59903,Yashvi Ghose,52,Male,1,1,Married,Never Worked,Rural,122.12,25.83,Non-smoker,Never,Low,1,Yes,Non-Vegetarian,2.95,145/77,"HDL: 53, LDL: 138","Weakness, Severe Fatigue",Stroke
+71616,Taran Kara,72,Female,1,0,Single,Government Job,Urban,114.45,15.34,Formerly Smoked,Rarely,Low,0,Yes,Pescatarian,1.89,125/69,"HDL: 72, LDL: 181","Confusion, Difficulty Speaking, Confusion, Weakness, Headache",No Stroke
+91868,Anaya Bhargava,65,Female,0,0,Divorced,Private,Urban,199.19,27.05,Formerly Smoked,Never,Low,1,No,Vegan,7.35,141/91,"HDL: 47, LDL: 179","Dizziness, Weakness, Numbness",Stroke
+64193,Chirag Sha,44,Female,0,0,Married,Self-employed,Urban,112.19,38.12,Currently Smokes,Frequent Drinker,Low,0,Yes,Keto,0.29,94/91,"HDL: 66, LDL: 64","Seizures, Numbness, Severe Fatigue",Stroke
+63511,Ryan Ganesh,54,Male,1,0,Divorced,Government Job,Urban,189.34,27.67,Currently Smokes,Rarely,High,1,Yes,Keto,9.16,105/94,"HDL: 67, LDL: 155","Confusion, Seizures, Seizures, Severe Fatigue, Severe Fatigue",No Stroke
+1283,Advik Lall,61,Female,1,0,Married,Self-employed,Rural,144.94,28.95,Currently Smokes,Rarely,High,1,No,Vegan,8.97,164/81,"HDL: 64, LDL: 81",,No Stroke
+63315,Ritvik Saxena,50,Male,0,1,Single,Never Worked,Urban,163.04,27.93,Formerly Smoked,Frequent Drinker,Low,1,Yes,Non-Vegetarian,4.98,172/110,"HDL: 74, LDL: 174","Dizziness, Numbness",Stroke
+29652,Anya Seth,30,Male,1,0,Single,Private,Rural,102.63,34.4,Currently Smokes,Frequent Drinker,Low,0,Yes,Vegan,1.1,90/95,"HDL: 32, LDL: 167",Headache,No Stroke
+2321,Zaina Deshmukh,63,Male,0,1,Single,Never Worked,Rural,124.24,38.13,Formerly Smoked,Social Drinker,Low,1,No,Paleo,8.91,129/91,"HDL: 79, LDL: 61","Seizures, Confusion, Difficulty Speaking, Headache",No Stroke
+59824,Lavanya Chokshi,84,Female,1,0,Married,Self-employed,Urban,132.09,35.78,Currently Smokes,Rarely,High,1,No,Keto,4.5,161/72,"HDL: 61, LDL: 106","Confusion, Severe Fatigue, Confusion, Weakness, Seizures",No Stroke
+11467,Rohan Jayaraman,65,Female,1,0,Single,Private,Rural,107.17,26.39,Formerly Smoked,Rarely,Moderate,1,No,Vegan,2.26,175/81,"HDL: 40, LDL: 144",Confusion,Stroke
+37895,Uthkarsh Kuruvilla,55,Male,0,0,Single,Private,Urban,169.16,21.28,Formerly Smoked,Rarely,High,0,No,Keto,7.69,149/85,"HDL: 58, LDL: 153",Dizziness,Stroke
+49217,Prisha Gandhi,62,Female,0,1,Single,Private,Rural,105.39,15.35,Formerly Smoked,Rarely,Low,1,No,Paleo,4.33,130/107,"HDL: 45, LDL: 63",,Stroke
+84138,Ira Sama,59,Female,0,0,Single,Never Worked,Urban,186.63,30.56,Currently Smokes,Social Drinker,Moderate,0,Yes,Pescatarian,7.08,117/62,"HDL: 65, LDL: 90","Difficulty Speaking, Loss of Balance",No Stroke
+76783,Kanav Bakshi,25,Female,0,0,Married,Self-employed,Rural,131.07,26.18,Currently Smokes,Never,Moderate,1,No,Paleo,5.36,163/88,"HDL: 72, LDL: 72","Difficulty Speaking, Blurred Vision, Headache, Seizures, Numbness",No Stroke
+58012,Kismat Dhar,28,Female,1,0,Married,Self-employed,Urban,177.48,35.84,Formerly Smoked,Frequent Drinker,High,0,No,Pescatarian,0.04,99/60,"HDL: 76, LDL: 114","Dizziness, Dizziness",No Stroke
+28683,Darshit Sagar,73,Male,1,0,Married,Government Job,Urban,169.03,20.87,Non-smoker,Rarely,Moderate,1,Yes,Vegetarian,4.37,108/110,"HDL: 47, LDL: 152",Numbness,Stroke
+4200,Charvi Kunda,21,Female,1,0,Single,Government Job,Urban,61.8,22.29,Non-smoker,Social Drinker,Moderate,1,Yes,Vegan,3.6,169/90,"HDL: 73, LDL: 179","Loss of Balance, Dizziness, Weakness",Stroke
+94555,Mohanlal Sane,57,Female,0,1,Married,Self-employed,Urban,61.88,19.75,Currently Smokes,Social Drinker,Moderate,0,No,Vegetarian,1.22,164/68,"HDL: 70, LDL: 64","Severe Fatigue, Numbness, Loss of Balance",No Stroke
+63062,Alia Kata,56,Male,0,0,Divorced,Self-employed,Urban,185.62,27.9,Currently Smokes,Frequent Drinker,High,1,No,Vegan,1.14,178/78,"HDL: 47, LDL: 187","Confusion, Blurred Vision, Numbness, Weakness, Difficulty Speaking",Stroke
+5545,Riaan Hari,37,Male,0,1,Divorced,Self-employed,Urban,122.67,16.5,Formerly Smoked,Never,Low,0,Yes,Keto,8.62,126/108,"HDL: 76, LDL: 155",Seizures,No Stroke
+76149,Saanvi Ganguly,27,Male,0,1,Single,Never Worked,Urban,139.37,33.34,Currently Smokes,Social Drinker,Low,1,Yes,Non-Vegetarian,0.84,112/70,"HDL: 39, LDL: 116","Difficulty Speaking, Confusion, Weakness",Stroke
+36412,Mishti Sant,67,Male,1,0,Single,Government Job,Urban,101.66,39.14,Non-smoker,Frequent Drinker,High,1,No,Paleo,1.97,91/69,"HDL: 78, LDL: 85","Numbness, Confusion, Weakness, Confusion",Stroke
+33196,Jivin Verma,78,Female,1,0,Married,Self-employed,Urban,150.28,20.99,Currently Smokes,Never,Moderate,1,No,Gluten-Free,3.71,143/109,"HDL: 76, LDL: 153",,Stroke
+25907,Shaan Dubey,83,Male,0,1,Single,Self-employed,Rural,119.9,16.91,Non-smoker,Social Drinker,Low,1,Yes,Vegan,7.56,122/71,"HDL: 35, LDL: 181","Difficulty Speaking, Difficulty Speaking, Difficulty Speaking, Confusion",Stroke
+95475,Tiya Dada,41,Female,0,1,Single,Self-employed,Rural,195.35,37.7,Formerly Smoked,Social Drinker,Low,1,No,Paleo,5.27,152/88,"HDL: 48, LDL: 158","Blurred Vision, Dizziness, Headache",Stroke
+95196,Nishith Mallick,24,Female,0,1,Married,Self-employed,Urban,156.8,21.37,Formerly Smoked,Rarely,Moderate,1,No,Pescatarian,8.04,171/69,"HDL: 57, LDL: 139",,No Stroke
+70498,Divit Bobal,79,Male,1,1,Married,Never Worked,Rural,175.16,30.73,Non-smoker,Never,High,1,Yes,Pescatarian,4.05,122/77,"HDL: 44, LDL: 113","Seizures, Confusion, Weakness, Severe Fatigue",No Stroke
+43896,Tiya Mani,90,Male,1,0,Married,Self-employed,Rural,61.26,32.88,Currently Smokes,Rarely,Low,1,Yes,Vegan,7.32,125/78,"HDL: 63, LDL: 180","Severe Fatigue, Dizziness, Loss of Balance, Seizures",Stroke
+80589,Aradhya Kaur,75,Male,0,1,Single,Self-employed,Urban,106.76,34.52,Non-smoker,Rarely,High,0,No,Gluten-Free,6.27,150/86,"HDL: 75, LDL: 106","Headache, Confusion, Dizziness",No Stroke
+81923,Miraya Sekhon,56,Female,0,0,Single,Never Worked,Rural,193.22,38.62,Non-smoker,Social Drinker,Low,1,No,Non-Vegetarian,4.97,154/75,"HDL: 67, LDL: 189","Loss of Balance, Severe Fatigue, Severe Fatigue, Loss of Balance, Dizziness",No Stroke
+24352,Devansh Ratti,59,Male,1,0,Single,Never Worked,Urban,112.35,30.34,Non-smoker,Frequent Drinker,Moderate,0,No,Pescatarian,0.27,163/109,"HDL: 32, LDL: 132","Difficulty Speaking, Loss of Balance, Loss of Balance, Dizziness, Confusion",Stroke
+92896,Ivan Maharaj,48,Male,1,1,Married,Private,Urban,177.73,35.6,Non-smoker,Social Drinker,High,1,No,Pescatarian,0.32,160/101,"HDL: 38, LDL: 74",,No Stroke
+76048,Rhea Bhargava,61,Female,0,0,Married,Private,Rural,67,16.37,Formerly Smoked,Never,Moderate,1,No,Paleo,4.21,114/100,"HDL: 43, LDL: 102","Difficulty Speaking, Headache, Dizziness, Confusion",Stroke
+56253,Mahika Rege,65,Female,0,0,Divorced,Never Worked,Rural,69.69,15.33,Currently Smokes,Frequent Drinker,Moderate,0,Yes,Vegetarian,2.96,134/102,"HDL: 67, LDL: 124",Confusion,No Stroke
+89185,Ehsaan Vala,72,Male,0,0,Divorced,Never Worked,Rural,134.79,35.71,Currently Smokes,Frequent Drinker,High,1,No,Pescatarian,9.91,165/76,"HDL: 54, LDL: 190","Severe Fatigue, Severe Fatigue, Dizziness, Difficulty Speaking, Headache",No Stroke
+37671,Romil Yogi,40,Female,1,1,Divorced,Government Job,Urban,164.18,39.64,Formerly Smoked,Social Drinker,Low,1,No,Vegan,2.05,171/60,"HDL: 68, LDL: 128","Blurred Vision, Confusion, Confusion",No Stroke
+76402,Anahita Guha,29,Male,0,1,Married,Government Job,Rural,61,31.71,Non-smoker,Frequent Drinker,Moderate,1,Yes,Paleo,1.49,102/72,"HDL: 33, LDL: 111","Severe Fatigue, Dizziness, Numbness",No Stroke
+71379,Taran Jhaveri,76,Female,1,1,Single,Never Worked,Urban,162.44,27.73,Formerly Smoked,Never,High,0,Yes,Vegan,2.71,169/84,"HDL: 36, LDL: 61","Confusion, Blurred Vision",Stroke
+19194,Anahita Ahuja,33,Female,0,1,Divorced,Never Worked,Rural,98.04,20.69,Formerly Smoked,Social Drinker,Moderate,0,Yes,Non-Vegetarian,9.87,154/87,"HDL: 50, LDL: 84",Blurred Vision,No Stroke
+80371,Kimaya Borra,83,Female,0,1,Divorced,Never Worked,Urban,193.63,18.06,Non-smoker,Frequent Drinker,Low,0,No,Non-Vegetarian,0.43,122/83,"HDL: 41, LDL: 173","Dizziness, Loss of Balance, Severe Fatigue",Stroke
+32581,Nitya Sankaran,79,Female,0,1,Married,Government Job,Rural,185,24.8,Currently Smokes,Rarely,Low,1,Yes,Keto,7.79,176/89,"HDL: 39, LDL: 156","Dizziness, Seizures, Confusion",No Stroke
+7760,Parinaaz Borde,34,Male,0,1,Married,Private,Rural,96.56,19.36,Non-smoker,Frequent Drinker,Moderate,1,No,Vegan,8.41,160/104,"HDL: 52, LDL: 160","Weakness, Loss of Balance, Blurred Vision",Stroke
+67097,Anaya Ramesh,45,Male,0,1,Single,Government Job,Rural,74.69,32.81,Formerly Smoked,Never,Low,1,No,Pescatarian,5.51,139/70,"HDL: 51, LDL: 188","Loss of Balance, Loss of Balance, Severe Fatigue, Difficulty Speaking, Severe Fatigue",Stroke
+95622,Lavanya Lanka,58,Female,0,1,Divorced,Self-employed,Urban,168.3,27.28,Currently Smokes,Social Drinker,High,0,Yes,Keto,3.29,140/101,"HDL: 73, LDL: 167","Severe Fatigue, Severe Fatigue, Confusion",No Stroke
+27362,Umang Kohli,31,Male,1,1,Married,Private,Rural,107.54,16.56,Non-smoker,Rarely,Moderate,1,Yes,Vegetarian,3.84,98/108,"HDL: 43, LDL: 182",,No Stroke
+11455,Yakshit Sem,84,Female,1,0,Married,Never Worked,Rural,71.06,36.66,Non-smoker,Social Drinker,Moderate,1,Yes,Vegan,2.14,114/70,"HDL: 35, LDL: 76","Blurred Vision, Dizziness, Severe Fatigue",No Stroke
+83314,Zain Gera,68,Female,1,0,Single,Never Worked,Rural,97.52,21.92,Formerly Smoked,Social Drinker,High,0,Yes,Paleo,5.39,155/98,"HDL: 74, LDL: 174","Severe Fatigue, Loss of Balance, Difficulty Speaking",No Stroke
+9077,Yasmin Anand,79,Male,0,1,Married,Never Worked,Urban,138.17,18.88,Formerly Smoked,Rarely,High,0,No,Keto,3.33,96/93,"HDL: 53, LDL: 177","Dizziness, Seizures, Blurred Vision",Stroke
+3307,Dhruv Halder,77,Male,1,0,Divorced,Government Job,Rural,117.88,15.1,Non-smoker,Frequent Drinker,High,0,Yes,Paleo,5.17,99/92,"HDL: 38, LDL: 95","Weakness, Blurred Vision, Weakness, Confusion, Headache",Stroke
+5855,Eshani Wali,35,Female,0,1,Divorced,Never Worked,Rural,74.3,37.58,Currently Smokes,Social Drinker,Moderate,0,No,Keto,0.56,112/109,"HDL: 44, LDL: 175","Difficulty Speaking, Difficulty Speaking, Headache, Loss of Balance",Stroke
+39900,Umang Agrawal,25,Male,0,0,Single,Self-employed,Urban,198.09,35.12,Currently Smokes,Frequent Drinker,High,1,Yes,Paleo,2.26,92/98,"HDL: 60, LDL: 127","Confusion, Severe Fatigue, Loss of Balance, Loss of Balance, Confusion",Stroke
+83261,Mohanlal Agate,25,Female,0,1,Married,Never Worked,Urban,67.36,35.02,Formerly Smoked,Rarely,Low,0,No,Paleo,8.18,127/85,"HDL: 77, LDL: 154",,No Stroke
+73529,Indranil Wadhwa,81,Male,0,0,Married,Self-employed,Rural,118.78,38.82,Formerly Smoked,Rarely,Moderate,1,No,Vegan,9.5,150/104,"HDL: 44, LDL: 86",,No Stroke
+6582,Saanvi Rau,51,Male,1,1,Single,Never Worked,Rural,129.4,39.99,Non-smoker,Frequent Drinker,Low,1,Yes,Vegetarian,4.4,109/69,"HDL: 45, LDL: 106","Severe Fatigue, Confusion, Confusion, Weakness",Stroke
+48199,Taimur Jhaveri,38,Female,0,1,Single,Private,Rural,131.22,31.99,Formerly Smoked,Social Drinker,Low,1,No,Pescatarian,3.53,94/66,"HDL: 80, LDL: 127","Seizures, Weakness, Numbness, Headache",No Stroke
+64126,Veer Tella,53,Male,0,1,Married,Never Worked,Rural,109.48,20.94,Formerly Smoked,Never,Moderate,1,Yes,Keto,1.71,119/93,"HDL: 72, LDL: 147","Dizziness, Loss of Balance, Numbness",Stroke
+10515,Hrishita Borde,74,Male,1,1,Divorced,Private,Urban,70.98,20.7,Formerly Smoked,Never,Low,1,Yes,Non-Vegetarian,2.97,107/90,"HDL: 74, LDL: 79",,No Stroke
+50332,Pari Vala,36,Female,0,1,Single,Never Worked,Urban,124.62,32.85,Formerly Smoked,Never,High,1,Yes,Keto,8.39,172/72,"HDL: 47, LDL: 143","Dizziness, Headache",Stroke
+83518,Vidur Basak,48,Female,0,1,Single,Private,Rural,69.37,29.83,Currently Smokes,Rarely,Moderate,1,Yes,Gluten-Free,4.34,163/99,"HDL: 63, LDL: 162","Difficulty Speaking, Seizures, Loss of Balance, Blurred Vision",No Stroke
+97245,Neelofar Bansal,49,Female,0,0,Married,Government Job,Urban,168.52,16.59,Formerly Smoked,Never,Moderate,1,No,Vegan,6.84,159/84,"HDL: 46, LDL: 117","Numbness, Loss of Balance, Headache",No Stroke
+32637,Miraan Khosla,57,Male,1,1,Married,Self-employed,Urban,123.97,21.15,Currently Smokes,Frequent Drinker,Low,1,No,Paleo,1.13,123/67,"HDL: 58, LDL: 159","Loss of Balance, Loss of Balance, Blurred Vision, Seizures, Weakness",No Stroke
+49447,Rasha Yadav,53,Male,1,0,Married,Government Job,Urban,65.96,32.98,Currently Smokes,Rarely,High,0,No,Paleo,2.43,107/75,"HDL: 76, LDL: 175",,Stroke
+59287,Ranbir Virk,33,Female,1,1,Divorced,Private,Rural,134.31,33.41,Currently Smokes,Frequent Drinker,Moderate,1,No,Pescatarian,2,133/81,"HDL: 54, LDL: 126","Loss of Balance, Severe Fatigue, Severe Fatigue",Stroke
+76576,Arnav Bhattacharyya,90,Female,0,0,Divorced,Self-employed,Rural,168.29,35.58,Formerly Smoked,Frequent Drinker,Moderate,1,Yes,Vegetarian,2.04,118/73,"HDL: 60, LDL: 129","Severe Fatigue, Confusion, Blurred Vision, Dizziness, Numbness",Stroke
+86324,Romil Bhargava,44,Female,0,0,Divorced,Never Worked,Rural,132.03,22.35,Non-smoker,Social Drinker,Low,1,Yes,Paleo,2.17,94/92,"HDL: 44, LDL: 69","Numbness, Severe Fatigue, Numbness",Stroke
+33456,Bhamini Brahmbhatt,77,Male,0,0,Divorced,Self-employed,Urban,139.41,15.78,Currently Smokes,Frequent Drinker,High,0,No,Paleo,6.04,93/94,"HDL: 43, LDL: 110","Severe Fatigue, Dizziness, Loss of Balance, Difficulty Speaking",Stroke
+22530,Advika Subramanian,75,Female,0,1,Married,Self-employed,Urban,177.02,33.44,Formerly Smoked,Social Drinker,Low,0,Yes,Vegetarian,5.06,170/96,"HDL: 39, LDL: 121","Difficulty Speaking, Loss of Balance, Blurred Vision, Weakness",Stroke
+13829,Anahita Shanker,45,Female,0,0,Single,Self-employed,Urban,136.42,15.03,Non-smoker,Social Drinker,Moderate,0,Yes,Keto,4.1,120/83,"HDL: 57, LDL: 83","Severe Fatigue, Numbness, Weakness, Difficulty Speaking, Weakness",No Stroke
+88080,Aarush Balan,36,Female,0,1,Divorced,Never Worked,Urban,106.76,35.46,Currently Smokes,Frequent Drinker,Low,1,No,Vegetarian,9.05,146/61,"HDL: 47, LDL: 89",Numbness,Stroke
+50796,Navya Buch,48,Female,1,1,Married,Never Worked,Urban,67.24,19.84,Formerly Smoked,Never,Low,0,No,Paleo,0.72,94/104,"HDL: 38, LDL: 126",Weakness,No Stroke
+54408,Shayak Lall,86,Male,0,0,Married,Private,Rural,74.91,39.14,Currently Smokes,Never,High,1,No,Vegetarian,4.21,93/87,"HDL: 63, LDL: 81",Blurred Vision,Stroke
+14720,Aradhya Dugal,47,Male,0,1,Divorced,Private,Urban,107.34,37.26,Currently Smokes,Rarely,Low,0,Yes,Paleo,5.9,147/74,"HDL: 43, LDL: 126","Difficulty Speaking, Headache, Seizures",Stroke
+28722,Mamooty Kalla,69,Male,0,1,Single,Self-employed,Rural,70.85,21.8,Formerly Smoked,Social Drinker,High,1,No,Non-Vegetarian,6.11,101/109,"HDL: 63, LDL: 60","Blurred Vision, Seizures",No Stroke
+31002,Seher Kurian,80,Male,0,1,Married,Private,Rural,153.21,21.93,Currently Smokes,Frequent Drinker,Moderate,0,No,Pescatarian,7.38,143/79,"HDL: 55, LDL: 172","Blurred Vision, Dizziness, Blurred Vision",Stroke
+7834,Rania Ganesan,76,Male,0,0,Divorced,Government Job,Urban,174.22,27.03,Currently Smokes,Never,Moderate,1,Yes,Pescatarian,7.85,148/88,"HDL: 65, LDL: 171","Confusion, Numbness, Numbness",No Stroke
+77458,Mannat Grover,21,Male,0,1,Divorced,Private,Rural,100.38,39.12,Formerly Smoked,Social Drinker,High,0,Yes,Non-Vegetarian,6.01,148/62,"HDL: 46, LDL: 136",Headache,Stroke
+51008,Madhav Varghese,72,Male,0,0,Married,Self-employed,Rural,120.78,17.78,Formerly Smoked,Social Drinker,High,0,No,Vegetarian,4.02,148/95,"HDL: 49, LDL: 111","Seizures, Seizures, Seizures, Loss of Balance",No Stroke
+87762,Eva Ratti,36,Female,0,0,Single,Private,Rural,111.44,37.03,Non-smoker,Never,Low,0,Yes,Non-Vegetarian,7.85,171/102,"HDL: 76, LDL: 61",Dizziness,Stroke
+1684,Rohan Bandi,39,Female,0,1,Single,Private,Rural,189.72,15.1,Formerly Smoked,Social Drinker,Moderate,1,Yes,Keto,3.68,135/105,"HDL: 77, LDL: 169","Seizures, Numbness, Headache, Dizziness, Headache",No Stroke
+62075,Kabir Barad,21,Female,0,0,Single,Government Job,Urban,165.61,34.96,Formerly Smoked,Never,Low,1,No,Gluten-Free,5.81,176/60,"HDL: 70, LDL: 149","Headache, Seizures, Weakness",Stroke
+5425,Arnav Rastogi,69,Male,0,1,Married,Self-employed,Urban,78.98,17.51,Currently Smokes,Frequent Drinker,Low,1,No,Gluten-Free,5.2,170/60,"HDL: 56, LDL: 111",Blurred Vision,Stroke
+82506,Sahil Luthra,19,Male,1,0,Single,Private,Urban,97.05,29.77,Non-smoker,Frequent Drinker,High,1,Yes,Paleo,6.78,149/60,"HDL: 74, LDL: 144","Confusion, Headache, Loss of Balance, Numbness",No Stroke
+50629,Bhamini Thakkar,79,Female,0,0,Married,Never Worked,Rural,196.04,17.51,Currently Smokes,Rarely,Low,1,No,Pescatarian,8.46,147/106,"HDL: 58, LDL: 94","Numbness, Dizziness, Numbness, Headache",Stroke
+69109,Ojas Sangha,25,Male,0,0,Single,Private,Urban,108.67,28.97,Currently Smokes,Rarely,High,1,No,Vegan,8.06,163/83,"HDL: 43, LDL: 149","Dizziness, Weakness",Stroke
+4519,Amani Dyal,77,Female,1,0,Married,Self-employed,Rural,155.08,22.52,Non-smoker,Rarely,Low,1,Yes,Paleo,1.76,152/74,"HDL: 40, LDL: 95","Dizziness, Numbness, Dizziness, Severe Fatigue, Loss of Balance",Stroke
+16331,Zoya Bora,66,Female,0,0,Divorced,Private,Urban,185,22.83,Non-smoker,Never,Moderate,1,Yes,Paleo,8.07,105/83,"HDL: 72, LDL: 165",Difficulty Speaking,No Stroke
+61209,Gokul Raval,30,Male,0,1,Single,Private,Urban,153.81,26.22,Non-smoker,Frequent Drinker,Moderate,0,No,Keto,8.7,122/79,"HDL: 56, LDL: 183","Blurred Vision, Headache, Blurred Vision, Numbness",Stroke
+85237,Miraya Sankaran,22,Female,0,0,Divorced,Never Worked,Urban,66.62,18.28,Formerly Smoked,Social Drinker,Moderate,1,Yes,Vegan,9.26,180/106,"HDL: 38, LDL: 127",Headache,No Stroke
+89438,Lakshit Dey,73,Male,0,0,Married,Private,Rural,71.38,36.12,Currently Smokes,Frequent Drinker,Moderate,0,No,Vegan,4.16,117/76,"HDL: 46, LDL: 128","Confusion, Difficulty Speaking, Severe Fatigue, Blurred Vision, Numbness",Stroke
+64035,Emir Loyal,26,Male,1,1,Divorced,Private,Urban,102.34,31.57,Currently Smokes,Frequent Drinker,Low,0,No,Pescatarian,5.57,118/76,"HDL: 62, LDL: 144","Dizziness, Dizziness, Seizures",No Stroke
+32870,Himmat Zachariah,43,Male,1,1,Single,Government Job,Rural,190.08,27.41,Currently Smokes,Never,Low,1,No,Keto,5.36,177/76,"HDL: 63, LDL: 78",,Stroke
+20243,Jhanvi Anand,75,Female,0,1,Single,Never Worked,Urban,74.99,27.02,Currently Smokes,Social Drinker,High,1,No,Non-Vegetarian,6.63,92/92,"HDL: 75, LDL: 164","Headache, Loss of Balance, Blurred Vision",No Stroke
+88268,Mishti Sarna,20,Female,1,1,Married,Never Worked,Urban,95.95,16.63,Currently Smokes,Social Drinker,Moderate,1,Yes,Pescatarian,9.86,161/97,"HDL: 35, LDL: 126",Seizures,No Stroke
+27787,Taran Sane,22,Male,0,0,Married,Government Job,Rural,87.71,20.68,Non-smoker,Rarely,Low,1,Yes,Keto,7.01,130/70,"HDL: 79, LDL: 99",,Stroke
+63083,Farhan Mand,55,Male,0,1,Married,Never Worked,Rural,118.31,30.68,Formerly Smoked,Frequent Drinker,Moderate,1,No,Vegan,0.45,125/62,"HDL: 35, LDL: 155","Severe Fatigue, Blurred Vision, Headache",No Stroke
+24949,Hunar Rana,81,Female,0,0,Divorced,Private,Rural,70.29,16.05,Currently Smokes,Rarely,High,0,Yes,Pescatarian,9.13,170/64,"HDL: 42, LDL: 145","Loss of Balance, Weakness",Stroke
+1822,Zara Anand,51,Male,0,0,Married,Private,Urban,87.1,21.02,Formerly Smoked,Frequent Drinker,High,1,No,Vegetarian,0.98,97/78,"HDL: 73, LDL: 136",Headache,No Stroke
+40363,Shlok Butala,67,Female,0,0,Single,Self-employed,Rural,131.66,27.93,Formerly Smoked,Frequent Drinker,Moderate,0,No,Keto,1.3,136/99,"HDL: 71, LDL: 64","Loss of Balance, Loss of Balance, Confusion",Stroke
+13630,Vedika Som,26,Male,0,1,Single,Government Job,Rural,60.03,28.06,Currently Smokes,Social Drinker,Moderate,0,No,Keto,4.47,132/62,"HDL: 72, LDL: 89",,No Stroke
+87217,Adah Sridhar,29,Female,1,0,Divorced,Never Worked,Urban,144.86,16.71,Formerly Smoked,Social Drinker,Moderate,1,No,Vegetarian,0.4,134/60,"HDL: 38, LDL: 103",,Stroke
+66673,Chirag Brahmbhatt,36,Female,0,0,Divorced,Government Job,Rural,153.58,27.81,Currently Smokes,Frequent Drinker,Low,0,No,Paleo,8.17,102/106,"HDL: 46, LDL: 105","Dizziness, Numbness, Difficulty Speaking, Weakness, Severe Fatigue",Stroke
+50285,Hazel Sundaram,43,Female,0,1,Single,Government Job,Urban,167.36,39.41,Currently Smokes,Rarely,Moderate,0,Yes,Pescatarian,5,91/84,"HDL: 31, LDL: 159","Headache, Loss of Balance",Stroke
+10252,Darshit Garde,40,Female,0,1,Single,Never Worked,Urban,189.26,37.65,Currently Smokes,Frequent Drinker,Moderate,0,Yes,Paleo,4.17,162/68,"HDL: 76, LDL: 106",Loss of Balance,No Stroke
+15229,Pari Boase,86,Female,0,0,Married,Self-employed,Urban,73.96,31.83,Currently Smokes,Never,Moderate,0,No,Gluten-Free,7.16,168/71,"HDL: 64, LDL: 63","Severe Fatigue, Dizziness, Weakness, Dizziness, Severe Fatigue",No Stroke
+82297,Nakul Khalsa,90,Male,0,1,Single,Self-employed,Urban,92.54,20.85,Currently Smokes,Rarely,Low,0,No,Vegetarian,4.06,171/84,"HDL: 47, LDL: 80",,Stroke
+22743,Tara Samra,28,Female,0,1,Divorced,Private,Urban,61.69,19.81,Formerly Smoked,Social Drinker,High,1,No,Vegetarian,5.04,120/106,"HDL: 56, LDL: 67","Seizures, Numbness, Loss of Balance",Stroke
+29092,Vanya Bora,80,Male,1,1,Single,Private,Urban,139.14,24.21,Non-smoker,Never,High,1,No,Paleo,9.36,145/74,"HDL: 77, LDL: 97","Difficulty Speaking, Weakness, Loss of Balance, Headache",No Stroke
+25693,Akarsh Samra,35,Male,0,0,Divorced,Government Job,Rural,167.19,26.32,Non-smoker,Never,High,1,Yes,Paleo,9.72,160/102,"HDL: 74, LDL: 67","Blurred Vision, Severe Fatigue, Headache, Dizziness, Loss of Balance",Stroke
+15834,Aarna Mann,47,Female,1,1,Divorced,Private,Urban,175.76,15.57,Currently Smokes,Rarely,Moderate,0,No,Non-Vegetarian,6.74,130/79,"HDL: 67, LDL: 95","Headache, Weakness, Headache, Severe Fatigue, Severe Fatigue",No Stroke
+54029,Inaaya  Ganesh,76,Male,1,0,Divorced,Government Job,Rural,154.5,21.64,Formerly Smoked,Rarely,High,1,No,Vegetarian,3.16,120/106,"HDL: 64, LDL: 130",,Stroke
+7957,Khushi Choudhary,88,Male,1,1,Married,Never Worked,Rural,88.03,38.89,Currently Smokes,Never,High,0,No,Vegetarian,8.69,179/73,"HDL: 52, LDL: 60",Difficulty Speaking,Stroke
+64333,Ayesha Deshmukh,28,Female,0,1,Single,Never Worked,Urban,98.62,38.64,Non-smoker,Rarely,Moderate,1,No,Paleo,1.57,148/66,"HDL: 35, LDL: 86","Headache, Headache, Headache",Stroke
+40480,Kiara Krish,49,Female,0,1,Married,Government Job,Rural,172.67,32.18,Currently Smokes,Social Drinker,Low,1,Yes,Keto,5.48,94/87,"HDL: 31, LDL: 129","Seizures, Confusion, Confusion",Stroke
+86307,Manikya Sridhar,25,Male,0,0,Married,Never Worked,Rural,76.86,30.21,Non-smoker,Rarely,Low,0,Yes,Non-Vegetarian,7.9,121/60,"HDL: 67, LDL: 72","Seizures, Difficulty Speaking",No Stroke
+44816,Hrishita Tata,76,Male,0,0,Single,Government Job,Rural,64.23,23.86,Currently Smokes,Frequent Drinker,Low,1,No,Keto,9.57,93/65,"HDL: 40, LDL: 168","Numbness, Loss of Balance, Headache, Blurred Vision",Stroke
+79762,Armaan Keer,24,Male,0,0,Single,Never Worked,Urban,74.22,31.02,Non-smoker,Rarely,Moderate,1,Yes,Vegan,2.87,118/104,"HDL: 51, LDL: 97","Loss of Balance, Numbness",Stroke
+72513,Pari Keer,47,Male,0,1,Married,Government Job,Rural,104.12,25.5,Non-smoker,Never,High,1,Yes,Keto,0.77,175/73,"HDL: 67, LDL: 167",Weakness,Stroke
+39967,Samaira Vala,63,Female,1,0,Divorced,Self-employed,Rural,108.72,22.79,Non-smoker,Never,Low,0,No,Gluten-Free,9.08,157/96,"HDL: 31, LDL: 89",,Stroke
+63667,Azad Deshpande,74,Female,1,0,Single,Private,Urban,90.51,15.04,Currently Smokes,Never,Low,1,No,Vegetarian,8.97,112/101,"HDL: 47, LDL: 184","Numbness, Loss of Balance, Dizziness",No Stroke
+48974,Mahika Kakar,66,Female,1,0,Married,Private,Urban,162.34,25.92,Currently Smokes,Never,High,1,Yes,Pescatarian,2.49,167/74,"HDL: 69, LDL: 74",Blurred Vision,No Stroke
+5279,Siya Sami,51,Male,0,0,Single,Never Worked,Rural,91.88,15.87,Non-smoker,Social Drinker,High,0,No,Non-Vegetarian,9.02,113/60,"HDL: 77, LDL: 159",Numbness,Stroke
+16785,Myra Baral,85,Male,0,0,Single,Private,Urban,97.37,19.54,Formerly Smoked,Rarely,Moderate,1,No,Non-Vegetarian,2.03,133/109,"HDL: 31, LDL: 107","Severe Fatigue, Dizziness, Weakness, Dizziness",Stroke
+3564,Kartik Chakraborty,49,Female,0,0,Married,Never Worked,Urban,166.51,39.74,Currently Smokes,Rarely,Low,1,No,Keto,1.32,112/78,"HDL: 46, LDL: 60","Headache, Dizziness, Dizziness",Stroke
+57907,Reyansh Dora,67,Female,1,0,Single,Government Job,Rural,93.18,29.27,Formerly Smoked,Social Drinker,High,1,Yes,Gluten-Free,3.44,121/94,"HDL: 72, LDL: 157","Weakness, Dizziness, Severe Fatigue, Blurred Vision, Dizziness",No Stroke
+6242,Shaan Sur,44,Male,0,0,Single,Never Worked,Urban,185.11,22.49,Formerly Smoked,Rarely,Moderate,1,No,Vegetarian,7.45,143/107,"HDL: 48, LDL: 179",,No Stroke
+22119,Neysa Kurian,85,Male,1,1,Single,Never Worked,Rural,100.13,19.72,Currently Smokes,Frequent Drinker,High,0,Yes,Gluten-Free,1.73,95/76,"HDL: 50, LDL: 68",Seizures,Stroke
+26249,Jivin Khalsa,60,Female,1,1,Divorced,Government Job,Urban,111.39,39.11,Formerly Smoked,Rarely,Moderate,1,Yes,Vegetarian,2.33,170/61,"HDL: 36, LDL: 71","Difficulty Speaking, Severe Fatigue, Loss of Balance, Severe Fatigue, Dizziness",Stroke
+41641,Shaan Maharaj,70,Male,0,0,Married,Never Worked,Urban,96.31,31.71,Currently Smokes,Never,Low,1,No,Vegetarian,7.73,106/60,"HDL: 36, LDL: 190",Blurred Vision,No Stroke
+96604,Dishani Kumar,43,Male,1,1,Single,Self-employed,Urban,129.51,19.73,Formerly Smoked,Never,High,1,No,Vegan,8.88,92/92,"HDL: 54, LDL: 119",,No Stroke
+91226,Piya Ahluwalia,65,Female,0,0,Divorced,Private,Rural,129.31,16.19,Currently Smokes,Social Drinker,Low,0,No,Vegetarian,4.86,128/83,"HDL: 75, LDL: 100","Confusion, Severe Fatigue, Dizziness, Numbness, Dizziness",Stroke
+23533,Drishya Deol,41,Female,0,0,Single,Self-employed,Urban,182.98,35.44,Formerly Smoked,Social Drinker,Moderate,0,No,Vegan,4.82,171/70,"HDL: 33, LDL: 168",Seizures,No Stroke
+29099,Ojas Dani,36,Male,1,0,Married,Government Job,Urban,152.19,39.58,Formerly Smoked,Social Drinker,Low,1,Yes,Vegan,2.41,177/83,"HDL: 65, LDL: 158",,Stroke
+77678,Renee Johal,59,Male,0,0,Single,Government Job,Rural,163.52,15.67,Formerly Smoked,Rarely,Moderate,1,Yes,Gluten-Free,0.27,118/69,"HDL: 38, LDL: 137","Blurred Vision, Seizures, Weakness, Difficulty Speaking, Numbness",Stroke
+61134,Uthkarsh Soni,59,Male,0,1,Divorced,Never Worked,Urban,121.95,34.9,Non-smoker,Frequent Drinker,High,0,No,Vegetarian,6.97,126/105,"HDL: 77, LDL: 171","Numbness, Loss of Balance, Confusion",No Stroke
+42769,Zaina Andra,63,Female,0,1,Married,Never Worked,Urban,132.74,29.59,Formerly Smoked,Never,Moderate,0,Yes,Pescatarian,2.78,176/105,"HDL: 74, LDL: 77","Loss of Balance, Blurred Vision",No Stroke
+19804,Amani Bava,84,Female,0,0,Divorced,Government Job,Rural,82.07,37.25,Currently Smokes,Never,Moderate,1,Yes,Vegetarian,9.27,162/64,"HDL: 79, LDL: 96","Confusion, Dizziness",Stroke
+37437,Advik Banik,50,Female,0,1,Divorced,Self-employed,Urban,155.96,33.1,Formerly Smoked,Social Drinker,Moderate,0,Yes,Non-Vegetarian,7.64,124/78,"HDL: 62, LDL: 178",,Stroke
+32057,Devansh Samra,21,Male,1,1,Married,Self-employed,Urban,185.94,37.1,Currently Smokes,Rarely,Moderate,0,Yes,Pescatarian,3.3,116/95,"HDL: 80, LDL: 181",Severe Fatigue,Stroke
+56685,Azad Shetty,77,Female,0,1,Single,Government Job,Urban,189.07,39.56,Non-smoker,Never,Moderate,0,Yes,Keto,2.65,114/78,"HDL: 40, LDL: 121","Headache, Severe Fatigue",No Stroke
+34615,Zara Viswanathan,86,Male,0,1,Divorced,Private,Rural,187.29,26.88,Currently Smokes,Social Drinker,Moderate,0,Yes,Gluten-Free,1.67,142/67,"HDL: 48, LDL: 133","Severe Fatigue, Difficulty Speaking, Seizures, Dizziness, Confusion",Stroke
+22874,Madhup Verma,22,Female,0,0,Married,Self-employed,Urban,147.37,18.96,Non-smoker,Rarely,High,0,No,Pescatarian,4.89,170/95,"HDL: 39, LDL: 176",,No Stroke
+98434,Kavya Butala,21,Female,0,0,Single,Never Worked,Urban,192.29,25.72,Currently Smokes,Social Drinker,Low,0,Yes,Non-Vegetarian,8.64,157/86,"HDL: 59, LDL: 79",,Stroke
+89896,Seher Lad,27,Male,0,1,Married,Never Worked,Rural,194.39,39.83,Non-smoker,Never,Low,1,Yes,Non-Vegetarian,0.72,133/102,"HDL: 52, LDL: 90","Confusion, Loss of Balance, Blurred Vision, Numbness, Severe Fatigue",Stroke
+27937,Faiyaz Luthra,66,Female,0,1,Single,Never Worked,Rural,63.85,16.43,Currently Smokes,Rarely,Low,1,Yes,Gluten-Free,8.11,97/72,"HDL: 79, LDL: 140",Blurred Vision,No Stroke
+44729,Jivika Sridhar,20,Female,0,0,Married,Self-employed,Urban,151.55,20.19,Currently Smokes,Social Drinker,High,0,Yes,Vegan,2.65,165/101,"HDL: 66, LDL: 184","Dizziness, Blurred Vision, Loss of Balance, Loss of Balance, Headache",No Stroke
+31711,Vihaan Kata,37,Male,1,0,Single,Self-employed,Urban,161.49,17.87,Non-smoker,Social Drinker,Low,0,No,Keto,7.89,147/61,"HDL: 54, LDL: 127","Severe Fatigue, Dizziness, Numbness",No Stroke
+34457,Damini Koshy,31,Male,0,0,Single,Never Worked,Urban,122.89,28.87,Non-smoker,Frequent Drinker,Moderate,0,Yes,Paleo,3.89,109/70,"HDL: 58, LDL: 107","Numbness, Dizziness, Loss of Balance, Dizziness",Stroke
+882,Aaryahi Bhandari,59,Female,0,0,Married,Never Worked,Rural,74.19,20.15,Currently Smokes,Frequent Drinker,Low,1,No,Paleo,9.06,119/100,"HDL: 48, LDL: 101",Headache,Stroke
+92088,Elakshi Viswanathan,44,Female,0,0,Single,Private,Rural,76.75,34.5,Formerly Smoked,Frequent Drinker,Low,0,No,Gluten-Free,9.96,110/106,"HDL: 60, LDL: 177","Dizziness, Numbness, Headache, Headache, Numbness",Stroke
+87071,Kashvi Ratta,52,Female,0,1,Single,Government Job,Rural,196.86,26.31,Formerly Smoked,Frequent Drinker,Low,0,Yes,Paleo,8.22,138/100,"HDL: 69, LDL: 61","Weakness, Weakness, Loss of Balance, Headache, Difficulty Speaking",No Stroke
+30401,Ira Bera,26,Male,0,0,Divorced,Self-employed,Urban,81.91,28.62,Currently Smokes,Never,Low,0,Yes,Pescatarian,2.78,165/77,"HDL: 49, LDL: 177",,Stroke
+7091,Badal Randhawa,25,Female,0,1,Single,Government Job,Urban,121.55,29.87,Non-smoker,Social Drinker,High,1,No,Paleo,5.53,138/87,"HDL: 79, LDL: 172","Severe Fatigue, Headache, Headache, Headache, Severe Fatigue",No Stroke
+77006,Sara Ratta,67,Male,1,1,Single,Never Worked,Urban,91.4,36.29,Currently Smokes,Frequent Drinker,Moderate,1,Yes,Non-Vegetarian,9.36,136/103,"HDL: 41, LDL: 139","Weakness, Confusion",Stroke
+12295,Bhamini Lal,90,Male,0,1,Divorced,Self-employed,Urban,119.6,26.96,Formerly Smoked,Rarely,Moderate,0,Yes,Non-Vegetarian,7.22,178/62,"HDL: 69, LDL: 73","Blurred Vision, Difficulty Speaking",Stroke
+88172,Prerak Uppal,74,Male,1,0,Single,Never Worked,Urban,80.67,18.36,Non-smoker,Rarely,Moderate,0,No,Pescatarian,2.33,146/68,"HDL: 50, LDL: 101",,No Stroke
+21341,Keya Baral,77,Female,0,1,Married,Private,Rural,140.82,26.04,Non-smoker,Rarely,Low,1,Yes,Vegetarian,7.61,149/84,"HDL: 77, LDL: 134",,No Stroke
+11854,Nayantara Hayer,79,Female,0,0,Married,Private,Urban,170.86,27.23,Currently Smokes,Frequent Drinker,High,1,Yes,Gluten-Free,2.81,145/107,"HDL: 77, LDL: 143","Difficulty Speaking, Severe Fatigue, Weakness",No Stroke
+13887,Inaaya  De,58,Female,0,0,Single,Private,Urban,66.98,21.68,Non-smoker,Frequent Drinker,High,0,Yes,Keto,1.83,121/84,"HDL: 77, LDL: 96","Numbness, Weakness, Severe Fatigue, Dizziness",Stroke
+21269,Baiju Gopal,36,Male,0,0,Divorced,Self-employed,Urban,74.64,16.81,Currently Smokes,Never,High,1,No,Pescatarian,4.61,162/108,"HDL: 73, LDL: 95",Seizures,No Stroke
+30770,Rania Mammen,34,Female,0,0,Single,Self-employed,Rural,65.05,20.72,Non-smoker,Never,High,0,No,Vegan,2.72,106/97,"HDL: 39, LDL: 91","Dizziness, Seizures",Stroke
+98501,Nayantara Chatterjee,22,Male,0,1,Single,Private,Rural,101.3,37.28,Formerly Smoked,Rarely,Moderate,0,No,Vegan,9.21,104/79,"HDL: 49, LDL: 115",,No Stroke
+63370,Advika Warrior,42,Female,1,0,Divorced,Government Job,Urban,157.94,28.75,Formerly Smoked,Frequent Drinker,Moderate,0,Yes,Paleo,6.9,104/78,"HDL: 66, LDL: 180","Headache, Loss of Balance, Blurred Vision, Dizziness",No Stroke
+51073,Alisha Loyal,84,Female,0,0,Single,Government Job,Rural,85.06,24.14,Non-smoker,Never,Moderate,0,Yes,Pescatarian,0.83,148/85,"HDL: 63, LDL: 183","Difficulty Speaking, Dizziness, Seizures, Dizziness, Confusion",No Stroke
+45144,Miraya Chawla,78,Male,0,0,Divorced,Self-employed,Urban,173.03,36.19,Non-smoker,Frequent Drinker,High,1,No,Keto,4.43,132/101,"HDL: 31, LDL: 74","Blurred Vision, Dizziness, Weakness",No Stroke
+15286,Ojas Shenoy,18,Male,1,1,Single,Government Job,Urban,73.9,38.21,Formerly Smoked,Frequent Drinker,Moderate,0,Yes,Vegetarian,5.39,171/61,"HDL: 61, LDL: 99",Difficulty Speaking,Stroke
+26168,Alia Gour,56,Male,0,1,Single,Self-employed,Urban,162.48,26.26,Formerly Smoked,Social Drinker,High,0,Yes,Vegan,1.99,160/80,"HDL: 32, LDL: 154","Severe Fatigue, Weakness, Blurred Vision, Numbness",No Stroke
+32504,Nakul Devi,83,Male,0,1,Single,Self-employed,Rural,129.25,25.43,Currently Smokes,Never,Low,1,Yes,Non-Vegetarian,6.64,158/70,"HDL: 44, LDL: 80",Severe Fatigue,No Stroke
+72722,Madhup Som,43,Female,0,1,Married,Self-employed,Urban,188.7,19.31,Non-smoker,Frequent Drinker,Moderate,1,No,Paleo,5.88,115/100,"HDL: 41, LDL: 162",,Stroke
+84338,Ivana Vohra,77,Female,0,1,Divorced,Never Worked,Rural,163.9,32.5,Non-smoker,Social Drinker,High,1,No,Paleo,5.99,155/70,"HDL: 68, LDL: 131",Confusion,No Stroke
+97898,Misha Lala,87,Female,0,1,Divorced,Self-employed,Urban,177.76,25.96,Formerly Smoked,Never,Low,0,No,Keto,5.97,157/65,"HDL: 78, LDL: 77",,No Stroke
+40432,Hunar Handa,47,Male,0,0,Single,Self-employed,Urban,117.99,18.26,Non-smoker,Never,Low,1,Yes,Gluten-Free,4.37,156/101,"HDL: 42, LDL: 147","Seizures, Loss of Balance, Weakness",No Stroke
+95837,Amani Doctor,23,Male,1,0,Single,Government Job,Urban,99.16,17.03,Non-smoker,Rarely,Low,1,Yes,Non-Vegetarian,6.86,136/89,"HDL: 31, LDL: 103","Numbness, Seizures",No Stroke
+39957,Amira Kashyap,76,Female,1,1,Divorced,Private,Urban,95.88,23.17,Non-smoker,Frequent Drinker,Moderate,1,Yes,Non-Vegetarian,0.85,113/99,"HDL: 74, LDL: 98",,No Stroke
+72274,Alisha Comar,89,Female,1,0,Divorced,Self-employed,Rural,139.91,31.77,Formerly Smoked,Social Drinker,High,0,No,Vegetarian,5.91,101/99,"HDL: 43, LDL: 137",,No Stroke
+63964,Onkar Kannan,49,Female,0,0,Married,Government Job,Rural,92.69,37.22,Non-smoker,Never,Low,1,No,Paleo,2.61,152/63,"HDL: 50, LDL: 102",,Stroke
+67799,Lakshit Chad,29,Female,0,1,Divorced,Self-employed,Urban,113.35,18.45,Formerly Smoked,Frequent Drinker,Low,0,Yes,Pescatarian,9.77,158/84,"HDL: 66, LDL: 146","Weakness, Headache",Stroke
+97776,Shalv Choudhry,20,Female,0,0,Married,Private,Rural,71.08,28.22,Non-smoker,Social Drinker,Low,0,No,Keto,1.58,124/60,"HDL: 72, LDL: 71","Difficulty Speaking, Severe Fatigue, Blurred Vision",Stroke
+38105,Jivika Gara,72,Male,0,0,Married,Government Job,Rural,115.94,20.03,Currently Smokes,Never,Low,1,Yes,Keto,3.76,116/73,"HDL: 70, LDL: 126","Blurred Vision, Weakness, Blurred Vision, Difficulty Speaking",Stroke
+97248,Riaan Bose,78,Male,0,1,Divorced,Private,Rural,180.19,27.02,Non-smoker,Never,Low,1,Yes,Keto,3,180/105,"HDL: 57, LDL: 173",,Stroke
+72253,Renee Bains,52,Male,1,1,Divorced,Never Worked,Urban,146.23,30.19,Formerly Smoked,Social Drinker,Moderate,0,No,Non-Vegetarian,5.36,95/69,"HDL: 47, LDL: 77","Weakness, Confusion, Difficulty Speaking, Severe Fatigue, Confusion",Stroke
+57785,Hrishita Soman,24,Female,0,1,Divorced,Self-employed,Rural,154.03,16.48,Formerly Smoked,Rarely,Low,0,No,Pescatarian,6.48,105/71,"HDL: 69, LDL: 89","Confusion, Difficulty Speaking",Stroke
+81823,Jayan Cheema,42,Female,1,1,Single,Private,Urban,93.44,34.58,Formerly Smoked,Social Drinker,Low,1,Yes,Keto,3.57,150/64,"HDL: 44, LDL: 172",,Stroke
+79620,Kabir Bala,49,Male,1,1,Single,Private,Rural,180.49,26.99,Currently Smokes,Never,High,0,No,Gluten-Free,3.54,149/87,"HDL: 54, LDL: 118",Seizures,Stroke
+10637,Veer Ganesh,27,Male,0,1,Married,Never Worked,Urban,98.08,20.6,Formerly Smoked,Frequent Drinker,High,1,Yes,Vegan,3.95,151/88,"HDL: 36, LDL: 161",,Stroke
+90511,Hunar Lad,43,Male,1,1,Single,Government Job,Rural,194.76,36.99,Currently Smokes,Frequent Drinker,Low,1,No,Vegan,1.86,144/93,"HDL: 42, LDL: 144",,Stroke
+21245,Shray Cheema,48,Female,0,1,Married,Self-employed,Rural,124.62,19.15,Non-smoker,Rarely,Moderate,1,No,Paleo,7.83,128/106,"HDL: 32, LDL: 163","Loss of Balance, Numbness, Seizures, Headache, Difficulty Speaking",Stroke
+88615,Darshit Bhatti,37,Male,0,1,Single,Private,Rural,155.09,21.66,Currently Smokes,Never,High,1,Yes,Vegan,2.01,153/92,"HDL: 67, LDL: 91","Numbness, Blurred Vision, Headache, Severe Fatigue, Numbness",No Stroke
+93871,Dhruv Badal,70,Female,1,0,Married,Private,Urban,70.88,35.22,Non-smoker,Never,Moderate,0,No,Vegetarian,9.04,120/102,"HDL: 62, LDL: 147","Blurred Vision, Severe Fatigue, Numbness",No Stroke
+85693,Yuvraj  Seth,72,Male,0,0,Divorced,Private,Urban,104.04,28.41,Formerly Smoked,Rarely,Low,1,Yes,Vegetarian,3.51,155/60,"HDL: 58, LDL: 173","Weakness, Loss of Balance, Loss of Balance",No Stroke
+88513,Darshit Kakar,49,Male,0,0,Married,Government Job,Rural,133.68,31.4,Formerly Smoked,Rarely,Moderate,0,Yes,Vegetarian,7.98,127/108,"HDL: 54, LDL: 121","Severe Fatigue, Difficulty Speaking, Difficulty Speaking, Headache",Stroke
+67999,Yuvaan Devi,41,Female,0,0,Married,Government Job,Rural,183.08,20.3,Currently Smokes,Rarely,High,0,Yes,Vegan,9.53,151/108,"HDL: 36, LDL: 150","Dizziness, Headache, Severe Fatigue, Seizures, Loss of Balance",No Stroke
+89542,Aaryahi Sibal,30,Female,0,1,Divorced,Self-employed,Urban,185.38,38.55,Non-smoker,Rarely,Moderate,0,No,Pescatarian,5.18,102/78,"HDL: 32, LDL: 146","Confusion, Difficulty Speaking",Stroke
+64428,Mahika Vora,38,Female,0,0,Married,Government Job,Rural,112.04,39.53,Non-smoker,Frequent Drinker,Low,1,No,Gluten-Free,1.48,129/110,"HDL: 53, LDL: 178","Headache, Dizziness, Headache",No Stroke
+44373,Lagan Ahuja,79,Male,0,1,Divorced,Self-employed,Rural,155.28,18.59,Formerly Smoked,Rarely,Low,0,No,Keto,5.06,142/110,"HDL: 58, LDL: 109","Numbness, Seizures, Seizures",No Stroke
+93877,Yakshit Saha,88,Male,0,1,Divorced,Private,Rural,186.27,18.61,Non-smoker,Frequent Drinker,Moderate,1,No,Paleo,2.56,150/73,"HDL: 77, LDL: 93","Difficulty Speaking, Confusion, Severe Fatigue, Confusion",No Stroke
+45919,Renee Dash,81,Male,1,0,Single,Private,Rural,108.82,15.81,Currently Smokes,Rarely,High,1,No,Keto,0.39,154/107,"HDL: 78, LDL: 60",Dizziness,No Stroke
+7404,Trisha Srivastava,65,Female,1,0,Married,Government Job,Rural,84.59,36.4,Non-smoker,Rarely,High,1,No,Keto,6.24,131/71,"HDL: 44, LDL: 73",Numbness,Stroke
+79302,Prisha Shetty,37,Male,1,1,Married,Never Worked,Urban,113.38,29.64,Formerly Smoked,Rarely,High,0,No,Vegetarian,1.81,170/67,"HDL: 62, LDL: 137","Blurred Vision, Headache, Numbness",No Stroke
+343,Priyansh Rajan,40,Male,1,0,Married,Self-employed,Urban,84.45,32.16,Formerly Smoked,Never,Moderate,0,No,Vegan,1.73,162/76,"HDL: 49, LDL: 73","Dizziness, Blurred Vision",Stroke
+82723,Aradhya Gade,70,Female,0,1,Single,Private,Urban,118.58,24.41,Formerly Smoked,Rarely,Low,0,Yes,Paleo,2.21,148/95,"HDL: 64, LDL: 137","Blurred Vision, Seizures, Weakness, Severe Fatigue",Stroke
+37250,Prerak Varghese,85,Male,1,0,Single,Never Worked,Rural,126.45,26,Currently Smokes,Rarely,Moderate,1,Yes,Paleo,8.05,90/110,"HDL: 76, LDL: 165",,Stroke
+87954,Azad Dixit,84,Female,0,1,Single,Self-employed,Rural,155.7,37.61,Non-smoker,Never,High,0,No,Non-Vegetarian,5.25,104/88,"HDL: 48, LDL: 148",Severe Fatigue,Stroke
+83646,Stuvan Sami,70,Male,0,0,Single,Government Job,Urban,68.18,34.21,Currently Smokes,Never,Moderate,1,Yes,Gluten-Free,1.91,125/99,"HDL: 40, LDL: 177",Severe Fatigue,No Stroke
+20286,Shanaya Cheema,39,Female,0,0,Married,Government Job,Rural,78.21,31.65,Formerly Smoked,Never,Moderate,0,Yes,Vegetarian,7.46,96/82,"HDL: 53, LDL: 101","Loss of Balance, Headache",No Stroke
+32538,Elakshi Kala,43,Male,0,0,Divorced,Self-employed,Urban,136.09,15.72,Formerly Smoked,Never,High,1,No,Keto,0.6,172/87,"HDL: 49, LDL: 62","Difficulty Speaking, Seizures, Seizures, Loss of Balance, Difficulty Speaking",Stroke
+7966,Charvi Gulati,63,Female,0,0,Single,Government Job,Urban,99.39,20.05,Currently Smokes,Never,Low,0,No,Pescatarian,4.65,139/69,"HDL: 74, LDL: 112","Difficulty Speaking, Confusion, Weakness",No Stroke
+5915,Baiju Wagle,87,Female,1,0,Divorced,Never Worked,Rural,107.74,27.21,Non-smoker,Rarely,High,0,No,Gluten-Free,2.05,142/90,"HDL: 64, LDL: 151","Difficulty Speaking, Difficulty Speaking, Weakness, Dizziness",No Stroke
+38943,Badal Wable,77,Male,1,1,Married,Private,Rural,197.68,21.08,Currently Smokes,Rarely,High,0,No,Vegetarian,5.31,153/60,"HDL: 56, LDL: 184","Headache, Numbness, Severe Fatigue, Difficulty Speaking, Difficulty Speaking",No Stroke
+78080,Mannat Karpe,18,Male,0,1,Single,Government Job,Rural,74.79,21.01,Formerly Smoked,Social Drinker,Moderate,1,No,Gluten-Free,2.48,149/108,"HDL: 49, LDL: 101","Loss of Balance, Blurred Vision, Blurred Vision",Stroke
+73706,Rohan Loke,35,Male,1,0,Married,Never Worked,Rural,158.63,22.4,Formerly Smoked,Social Drinker,Low,1,Yes,Gluten-Free,6.08,134/98,"HDL: 71, LDL: 178",Weakness,No Stroke
+64867,Tanya Sant,70,Male,0,0,Divorced,Government Job,Urban,126.84,34.67,Non-smoker,Frequent Drinker,Low,0,No,Gluten-Free,4.67,157/70,"HDL: 51, LDL: 119","Blurred Vision, Severe Fatigue, Loss of Balance, Difficulty Speaking",No Stroke
+46309,Rhea Bath,88,Male,0,0,Married,Self-employed,Urban,87.3,27.3,Non-smoker,Never,High,0,No,Vegan,6.59,119/89,"HDL: 65, LDL: 68","Headache, Loss of Balance, Severe Fatigue, Blurred Vision",No Stroke
+86607,Nehmat Bandi,85,Male,0,1,Divorced,Self-employed,Urban,197.42,18.02,Non-smoker,Frequent Drinker,Moderate,0,Yes,Vegan,6.99,175/62,"HDL: 64, LDL: 106","Dizziness, Seizures",No Stroke
+45359,Arhaan Upadhyay,53,Male,1,1,Married,Government Job,Rural,124.34,32.42,Currently Smokes,Frequent Drinker,High,1,Yes,Paleo,3.9,108/60,"HDL: 73, LDL: 185","Loss of Balance, Dizziness, Numbness, Dizziness",No Stroke
+91889,Farhan Madan,38,Male,0,0,Single,Government Job,Urban,68.4,38.08,Currently Smokes,Social Drinker,High,0,Yes,Pescatarian,1.53,152/63,"HDL: 66, LDL: 68",Dizziness,Stroke
+82536,Nayantara Mammen,45,Female,0,0,Married,Private,Urban,61.11,19.64,Currently Smokes,Social Drinker,Moderate,1,Yes,Keto,9.26,141/78,"HDL: 73, LDL: 155","Weakness, Loss of Balance, Numbness, Headache, Seizures",Stroke
+11052,Piya Virk,49,Female,1,0,Married,Never Worked,Urban,168.76,34.44,Currently Smokes,Rarely,Moderate,1,No,Pescatarian,6.75,179/64,"HDL: 40, LDL: 168","Numbness, Severe Fatigue, Headache, Blurred Vision",Stroke
+48521,Aarush Acharya,54,Female,0,1,Divorced,Never Worked,Rural,68.5,36.89,Currently Smokes,Frequent Drinker,Moderate,0,Yes,Paleo,3.56,170/71,"HDL: 40, LDL: 167","Seizures, Blurred Vision, Difficulty Speaking",Stroke
+19319,Jiya Arya,64,Male,0,1,Single,Never Worked,Urban,128.51,26.83,Non-smoker,Never,High,0,No,Keto,4.15,115/62,"HDL: 67, LDL: 128","Loss of Balance, Headache, Weakness, Weakness, Dizziness",Stroke
+64086,Jivin Saxena,86,Female,0,1,Married,Never Worked,Rural,122.89,24.42,Formerly Smoked,Rarely,Moderate,1,Yes,Gluten-Free,6.64,180/109,"HDL: 58, LDL: 84","Headache, Blurred Vision, Weakness, Severe Fatigue",No Stroke
+29327,Mannat Ramanathan,43,Male,0,1,Married,Never Worked,Urban,79.41,29.75,Formerly Smoked,Never,Moderate,0,Yes,Vegan,9.84,174/83,"HDL: 66, LDL: 130","Headache, Seizures, Loss of Balance, Headache, Blurred Vision",No Stroke
+59363,Trisha Mangat,64,Female,0,0,Married,Self-employed,Rural,154.96,28.07,Currently Smokes,Frequent Drinker,Moderate,0,Yes,Paleo,5.83,104/106,"HDL: 69, LDL: 125",,Stroke
+13158,Jayan Agrawal,62,Male,1,0,Divorced,Never Worked,Urban,74.77,30.71,Non-smoker,Never,Moderate,1,No,Gluten-Free,6.32,129/84,"HDL: 49, LDL: 85","Blurred Vision, Loss of Balance",No Stroke
+62213,Taran Acharya,70,Male,0,0,Single,Self-employed,Rural,148.99,15.8,Non-smoker,Social Drinker,High,1,Yes,Paleo,8.37,126/104,"HDL: 48, LDL: 95","Numbness, Severe Fatigue",No Stroke
+82216,Tanya Choudhury,66,Female,0,0,Married,Private,Rural,154.63,22.21,Formerly Smoked,Frequent Drinker,Moderate,0,Yes,Vegetarian,7.2,131/63,"HDL: 68, LDL: 108","Confusion, Loss of Balance, Difficulty Speaking, Blurred Vision, Headache",Stroke
+12592,Riaan Suresh,62,Female,0,1,Single,Self-employed,Urban,89.04,35.55,Formerly Smoked,Rarely,High,1,No,Non-Vegetarian,4.42,138/85,"HDL: 80, LDL: 155",Weakness,Stroke
+1103,Vedika Badal,26,Male,1,0,Single,Never Worked,Rural,173.62,22.93,Currently Smokes,Never,Moderate,1,No,Non-Vegetarian,3.97,168/102,"HDL: 71, LDL: 175",Numbness,Stroke
+98137,Hunar Bal,47,Female,0,1,Single,Government Job,Urban,157.43,39.29,Non-smoker,Never,Moderate,0,No,Keto,5.79,176/75,"HDL: 35, LDL: 80","Weakness, Headache, Loss of Balance, Blurred Vision, Weakness",No Stroke
+70223,Ira Char,81,Female,0,1,Divorced,Government Job,Rural,177.84,32.7,Formerly Smoked,Rarely,Moderate,1,Yes,Gluten-Free,8.41,122/78,"HDL: 32, LDL: 128","Seizures, Blurred Vision",No Stroke
+75798,Saira Konda,42,Female,1,1,Married,Self-employed,Rural,107.25,24.82,Currently Smokes,Social Drinker,Moderate,1,Yes,Pescatarian,6.98,128/95,"HDL: 31, LDL: 114","Loss of Balance, Blurred Vision",No Stroke
+99153,Jayan Vora,69,Female,0,0,Single,Private,Rural,168.07,38.73,Non-smoker,Frequent Drinker,Low,0,No,Paleo,9.51,174/83,"HDL: 79, LDL: 171","Numbness, Confusion, Headache, Difficulty Speaking, Headache",No Stroke
+98263,Hunar Kata,42,Female,0,1,Married,Government Job,Rural,116.19,35.87,Non-smoker,Frequent Drinker,Moderate,0,No,Vegan,8.7,103/67,"HDL: 67, LDL: 74","Dizziness, Confusion, Numbness, Headache, Weakness",Stroke
+77148,Rhea Vig,49,Male,0,1,Married,Government Job,Urban,161.77,35.58,Currently Smokes,Social Drinker,High,1,No,Keto,4.19,126/78,"HDL: 74, LDL: 146","Severe Fatigue, Dizziness",Stroke
+16950,Jayant Karpe,74,Female,0,0,Divorced,Self-employed,Rural,97.12,27.56,Non-smoker,Social Drinker,Moderate,1,No,Non-Vegetarian,8.83,116/108,"HDL: 30, LDL: 85","Headache, Confusion, Numbness, Loss of Balance, Loss of Balance",No Stroke
+66621,Eva Dhillon,47,Female,0,0,Married,Government Job,Rural,138.46,28.99,Currently Smokes,Social Drinker,High,0,No,Non-Vegetarian,2.44,160/63,"HDL: 66, LDL: 172","Difficulty Speaking, Headache, Numbness, Severe Fatigue",No Stroke
+23143,Damini Varty,77,Male,0,1,Single,Government Job,Rural,139.64,27.56,Currently Smokes,Social Drinker,High,1,Yes,Keto,0.9,129/95,"HDL: 65, LDL: 132",,No Stroke
+57537,Nirvaan Khalsa,83,Male,1,1,Married,Self-employed,Urban,82.32,29.32,Non-smoker,Frequent Drinker,Moderate,1,Yes,Paleo,2.58,159/86,"HDL: 30, LDL: 161","Weakness, Headache, Seizures",Stroke
+84761,Khushi Bahri,90,Female,0,0,Single,Self-employed,Rural,72.6,24.99,Formerly Smoked,Frequent Drinker,High,0,No,Vegan,6.01,143/65,"HDL: 55, LDL: 150","Difficulty Speaking, Blurred Vision",Stroke
+76218,Rhea Sabharwal,61,Male,1,1,Married,Private,Rural,127.96,38.6,Non-smoker,Frequent Drinker,High,0,No,Gluten-Free,5.61,148/98,"HDL: 73, LDL: 126","Weakness, Severe Fatigue",Stroke
